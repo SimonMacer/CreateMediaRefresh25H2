@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\OFFLINE\Software\Microsoft\Lighting]
+"AmbientLightingEnabled"=dword:00000000
+"ControlledByForegroundApp"=dword:00000000

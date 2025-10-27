@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\OFFLINE\Software\Microsoft\IME\15.0\IMETC]
+"Left Shift Usage"="0x00000002"
+"Right Shift Usage"="0x00000001"
+"Default Input Mode"="0x00000001"
