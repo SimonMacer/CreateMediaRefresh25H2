@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_LOCAL_MACHINE\OFFLINE\Microsoft\WindowsUpdate\Orchestrator\UScheduler_Oobe\CrossDeviceUpdate]
+
+[-HKEY_LOCAL_MACHINE\OFFLINE\Microsoft\WindowsUpdate\Orchestrator\UScheduler_Oobe\DevHomeUpdate]
+
+[-HKEY_LOCAL_MACHINE\OFFLINE\Microsoft\WindowsUpdate\Orchestrator\UScheduler_Oobe\EdgeUpdate]
+
+[-HKEY_LOCAL_MACHINE\OFFLINE\Microsoft\WindowsUpdate\Orchestrator\UScheduler_Oobe\IA]
+
+[-HKEY_LOCAL_MACHINE\OFFLINE\Microsoft\WindowsUpdate\Orchestrator\UScheduler_Oobe\LXP]
+
+[-HKEY_LOCAL_MACHINE\OFFLINE\Microsoft\WindowsUpdate\Orchestrator\UScheduler_Oobe\MACUpdate]
+
+[-HKEY_LOCAL_MACHINE\OFFLINE\Microsoft\WindowsUpdate\Orchestrator\UScheduler_Oobe\OutlookUpdate]
+
+[-HKEY_LOCAL_MACHINE\OFFLINE\Microsoft\WindowsUpdate\Orchestrator\UScheduler_Oobe\PCManagerUpdate]
+
+[-HKEY_LOCAL_MACHINE\OFFLINE\Microsoft\WindowsUpdate\Orchestrator\UScheduler_Oobe\TFLUpdate]

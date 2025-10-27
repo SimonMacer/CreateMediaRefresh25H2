@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\OFFLINE\Policies\Microsoft\Edge]
+"BackgroundModeEnabled"=dword:00000000
+"StartupBoostEnabled"=dword:00000000
+"StandaloneHubsSidebarEnabled"=dword:00000000
+"HardwareAccelerationModeEnabled"=dword:00000001
+"SearchbarAllowed"=dword:00000000
+"AllowSystemNotifications"=dword:00000000
+"AddressBarMicrosoftSearchInBingProviderEnabled"=dword:00000000
+"PromptForDownloadLocation"=dword:00000001
+"SearchbarIsEnabledOnStartup"=dword:00000000
+"ShowRecommendationsEnabled"=dword:00000000

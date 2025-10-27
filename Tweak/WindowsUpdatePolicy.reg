@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\OFFLINE\Microsoft\WindowsUpdate\UX\Settings]
+"ExcludeWUDriversInQualityUpdate"=dword:00000001
+"IsContinuousInnovationOptedIn"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\OFFLINE\Policies\Microsoft\WindowsStore]
+"AutoDownload"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\OFFLINE\Microsoft\Windows\CurrentVersion\WindowsStore\WindowsUpdate]
+"AutoDownload"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\OFFLINE\Policies\Microsoft\VisualStudio\Setup]
+"VSthroughMUUpdatesOptOut"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\OFFLINE\Policies\Microsoft\Windows\WindowsUpdate]
+"ExcludeWUDriversInQualityUpdate"=dword:00000001

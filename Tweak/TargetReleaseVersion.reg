@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\OFFLINE\Policies\Microsoft\Windows\WindowsUpdate]
+"ProductVersion"="Windows 11"
+"TargetReleaseVersionInfo"="25H2"
+"TargetReleaseVersion"=dword:00000001

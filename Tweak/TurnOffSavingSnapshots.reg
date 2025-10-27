@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\OFFLINE\Policies\Microsoft\Windows\WindowsAI]
+"TurnOffSavingSnapshots"=dword:00000001

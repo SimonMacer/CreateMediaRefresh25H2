@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\OFFLINE\Policies\Microsoft\Edge]
+"PersonalizationReportingEnabled"=dword:00000000
+"DiagnosticData"=dword:00000000

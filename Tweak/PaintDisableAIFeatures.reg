@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\OFFLINE\Microsoft\Windows\CurrentVersion\Policies\Paint]
+"DisableCocreator"=dword:00000001
+"DisableGenerativeFill"=dword:00000001
+"DisableImageCreator"=dword:00000001
