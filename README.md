@@ -71,4 +71,4 @@ Windows 11, version 25H2 Disc Image File Creation.
 * 請將 Win11_24H2_Customize\sources\\$OEM$.7z 解壓縮至 .\sources 同目錄並刪除。
 * 以系統管理員身分執行 StartGenerateInstallationMedia25H2.cmd 文件。
 * 依照詢問的問題輸入正確的資料，在輸入更新套件 KB 時不需要輸入 KB 字串。如果想跳過某個更新僅需要輸入 -1 即可。
-* 如果啟用 Test Mode 測試模式將只輸出 Index 1 並使用 Fast 壓縮模式匯出 install.wim 文件。
+* 如果啟用 Test Mode 測試模式僅會輸出 Index 1 並使用 Fast 壓縮模式匯出 install.wim 文件。
