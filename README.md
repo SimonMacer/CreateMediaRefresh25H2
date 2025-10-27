@@ -39,8 +39,9 @@ Windows 11, version 25H2 Disc Image File Creation.
 * 放置來源 install.wim 文件。
 
 ### Win11_24H2_Customize\MSEDGE
-* 放置 Microsoft Edge 更新套件。Edge 更新套件需要特別處理才能正確更新 install.wim 文件。[下載 Microsoft Edge Stable Channel Version 141.0.3537.99: October 23, 2025 更新套件](https://drive.google.com/file/d/1F6_FFSURA2lGqPrzJrdzsZm79ovXaEgE/view?usp=sharing)
-* 請將 MSEDGE_141.0.3537.99 解壓縮至 .\MSEDGE 目錄中。
+* 放置 Microsoft Edge 更新套件。Edge 更新套件需要特別處理才能正確更新 install.wim 文件。
+[下載 Microsoft Edge Stable Channel Version 141.0.3537.99: October 23, 2025 更新套件](https://drive.google.com/file/d/1F6_FFSURA2lGqPrzJrdzsZm79ovXaEgE/view?usp=sharing)
+* 請將 MSEDGE_141.0.3537.99.7z 解壓縮至 .\MSEDGE 目錄中。
 
 ### Win11_24H2_Customize\sources
 * 請將 $OEM$.7z 解壓縮至同目錄並刪除。
