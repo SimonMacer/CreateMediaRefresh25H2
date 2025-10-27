@@ -9,8 +9,8 @@ Windows 11, version 25H2 Disc Image File Creation.
 
 ## 準備工作
 * [下載及安裝 Windows ADK](https://learn.microsoft.com/zh-tw/windows-hardware/get-started/adk-install)。
-* Windows 11, version 24H2 Build 26100.1742 光碟映像檔 ISO 或最新 Windows 11, version 25H2 光碟映像檔 ISO。
-建議使用 Windows 11, version 24H2 Build 26100.1742 做為基底，無論 General Availability Channel/Release Preview Channel 還是 Dev/Beta Channel 都是基於 Build 26100.1742 Checkpoint。現在 Microsoft 已無提供 Windows 11, version 24H2 Build 26100.1742 公眾版本光碟映像檔 ISO，我們可以從 [Windows 11, version 24H2 (26100.1742) amd64 - UUP dump](https://uupdump.net/selectlang.php?id=e1d5e11a-7054-49cf-b9c9-ba54258d5cc6) 下載並製作 Build 26100.1742 光碟映像檔 ISO。
+* Windows 11, version 24H2 Build 26100.1742 或最新 Windows 11, version 25H2 光碟映像檔 ISO。
+建議使用 Windows 11, version 24H2 Build 26100.1742 做為基底，無論 General Availability Channel/Release Preview Channel 還是 Dev/Beta Channel 都是基於 Build 26100.1742。我們可以從 [Windows 11, version 24H2 (26100.1742) amd64 - UUP dump](https://uupdump.net/selectlang.php?id=e1d5e11a-7054-49cf-b9c9-ba54258d5cc6) 下載並製作 Build 26100.1742。
 
 ## Win11_24H2_Customize 環境建置
 * 在 [桌面] 上建立一個 Win11_24H2_Customize 目錄並 Download ZIP 將 .\CreateMediaRefresh25H2-main.zip\CreateMediaRefresh25H2-main 中的所有文件解壓縮至 Win11_24H2_Customize 目錄中。
