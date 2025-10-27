@@ -15,6 +15,7 @@ Windows 11, version 25H2 Disc Image File Creation.
 ## Win11_24H2_Customize 環境建置
 * 在 [桌面] 上建立一個 Win11_24H2_Customize 目錄並 Download ZIP 將 .\CreateMediaRefresh25H2-main.zip\CreateMediaRefresh25H2-main 中的所有文件解壓縮至 Win11_24H2_Customize 目錄中。
 * 下載 24H2BootableMedia.iso Build 26100.1742 安裝媒體。[Google Drive 空間下載](https://drive.google.com/file/d/1J0VpkozUZ5TG_ynje5890LzF8GwDt9gW/view?usp=sharing)
+* 請將下載的 24H2BootableMedia.7z 中的 24H2BootableMedia.iso 文件解壓縮至 Win11_24H2_Customize 目錄中。
 
 ### Win11_24H2_Customize\KB
 * 將 MSU 及 CAB 更新套件放置於此。
