@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+# 1 = 啟用此原則設定可讓您在所有 Windows 體驗中關閉雲端優化內容。
+# 0 或無此機碼 = 預設值。
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\CloudContent]
+"DisableCloudOptimizedContent"=dword:00000001
