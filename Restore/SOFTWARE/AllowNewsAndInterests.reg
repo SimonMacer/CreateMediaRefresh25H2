@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+# 1 或無此機碼 = 預設值。
+# 0 = 不允許小工具。
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Dsh]
+"AllowNewsAndInterests"=dword:00000000
