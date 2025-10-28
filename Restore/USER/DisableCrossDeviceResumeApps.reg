@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+# 停用 Cross Device Resume。
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\CrossDeviceResume\Configuration]
+"IsResumeAllowed"=dword:00000000
