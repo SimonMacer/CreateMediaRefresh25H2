@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+# ShowFrequent | 停用 | 在檔案總管的快速存取中顯示常用資料夾。
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer]
+"ShowFrequent"=dword:00000000
