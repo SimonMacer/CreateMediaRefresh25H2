@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+# 1 或無此機碼 = 預設值。
+# 0 = Microsoft 網路用戶端:停用數位簽署通訊 (一律)。用於解決使用者無法透過網路芳鄰（SMB）連接至某些設備，例如網路儲存伺服器(NAS)或透過華碩路由器連接 USB隨身碟。
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\LanmanWorkstation\Parameters]
+"RequireSecuritySignature"=dword:00000000
