@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\AppCompat]
+# 1 = 關閉程式相容性助理。
+"DisablePCA"=dword:00000001
+# 1 = 關閉應用程式相容性引擎。
+"DisableEngine"=dword:00000001
+# 0 = 停用回溯相容性引擎。
+"SbEnable"=dword:00000000
+# 0 = 停用應用程式遙測。
+"AITEnable"=dword:00000000
