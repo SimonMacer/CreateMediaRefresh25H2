@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+# 停用透過向 Microsoft 發送瀏覽記錄、收藏夾和集合、使用情況和其他瀏覽資料來停用廣告、Microsoft Edge、搜尋、新聞和其他 Microsoft 服務的個人化。
+# 停用有關瀏覽器使用情況的必需和可選診斷數據。
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge]
+"PersonalizationReportingEnabled"=dword:00000000
+"DiagnosticData"=dword:00000000
