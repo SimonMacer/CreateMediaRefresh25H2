@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+# Explorer > Serialize | WaitForIdleState and StartupDelayInMSec | 改進 Windows 11, version 24H2 and 25H2 上開機後的啟動應用程式延遲時間。
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Serialize]
+"StartupDelayInMSec"=dword:00000001
+"WaitforIdleState"=dword:00000000
