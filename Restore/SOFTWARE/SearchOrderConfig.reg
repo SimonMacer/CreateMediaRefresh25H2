@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+# 無此機碼 = 預設值。
+# 0 = Do not search Windows Update | 搜尋裝置驅動程式的順序。
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DriverSearching]
+"SearchOrderConfig"=dword:00000000
