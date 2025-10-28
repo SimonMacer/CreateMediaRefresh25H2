@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+# 1 或無此機碼 = 預設值。
+# 0 = 停用 Recall。
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsAI]
+"AllowRecallEnablement"=dword:00000000
