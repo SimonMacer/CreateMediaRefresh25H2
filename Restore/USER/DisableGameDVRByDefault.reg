@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+# AppCaptureEnabled | 停用 | 停用 Windows 11 的 Xbox Game Bar 螢幕擷取與錄影功能。
+# GamepadNexusChordEnabled | 停用 | 在應用程式中使用 [View + Menu] 作為快顯功能表按鈕。
+# UseNexusForGameBarEnabled | 停用 | 允許您的控制器開啟 Game Bar。
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\GameDVR]
+"AppCaptureEnabled"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Microsoft\GameBar]
+"GamepadNexusChordEnabled"=dword:00000000
+"UseNexusForGameBarEnabled"=dword:00000000
