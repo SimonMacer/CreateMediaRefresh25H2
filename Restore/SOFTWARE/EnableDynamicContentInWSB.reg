@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+# 1 或無此機碼 = 預設值。
+# 0 = 停用 DynamicContentInWSB 以改進工作列 Windows 搜尋性能 (放大鏡)。
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search]
+"EnableDynamicContentInWSB"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Policies\Microsoft\Windows\Windows Search]
+"EnableDynamicContentInWSB"=dword:00000000
