@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+# 停用小畫家 Copilot AI 生成填充、創造及圖像生成功能。
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Paint]
+"DisableCocreator"=dword:00000001
+"DisableGenerativeFill"=dword:00000001
+"DisableImageCreator"=dword:00000001
