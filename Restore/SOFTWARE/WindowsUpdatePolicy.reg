@@ -1,0 +1,21 @@
+Windows Registry Editor Version 5.00
+
+# ExcludeWUDriversInQualityUpdate | 啟用 | 不包含 Windows 更新的驅動程式。
+# IsContinuousInnovationOptedIn | 啟用 | 搶先取得最新的非安全性更新、修正和改進功能。
+# AutoDownload | 停用 | Microsoft Store 自動下載和安裝更新。
+# VSthroughMUUpdatesOptOut | 啟用 | 停止 Visual Studio 從 Windows Update 接收產品更新。
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsUpdate\UX\Settings]
+"ExcludeWUDriversInQualityUpdate"=dword:00000001
+"IsContinuousInnovationOptedIn"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\WindowsStore]
+"AutoDownload"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\WindowsStore\WindowsUpdate]
+"AutoDownload"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\VisualStudio\Setup]
+"VSthroughMUUpdatesOptOut"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
+"ExcludeWUDriversInQualityUpdate"=dword:00000001
