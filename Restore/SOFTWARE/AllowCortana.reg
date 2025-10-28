@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+# 1 或無此機碼 = 預設值。
+# 0 = 在此裝置上不允許使用 Cortana。
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search]
+"AllowCortana"=dword:00000000
