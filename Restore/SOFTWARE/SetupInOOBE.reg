@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+# BypassNRO: 跳過登入微軟帳號。
+# HideEULAPage: 隱藏微軟 EULA 頁面。
+# HideWirelessSetupInOOBE: 隱藏 Windows 歡迎使用期間出現的網路畫面。
+# HideOnlineAccountScreens: 隱藏 Windows 歡迎使用期間出現的 Microsoft 號戶登入畫面。
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OOBE]
+"BypassNRO"=dword:00000001
+"HideEULAPage"=dword:00000001
+"HideWirelessSetupInOOBE"=dword:00000001
+"HideOnlineAccountScreens"=dword:00000001
