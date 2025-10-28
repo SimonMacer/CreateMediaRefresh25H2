@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+# 1 或無此機碼 = 預設值。
+# 0 = 不允許搜尋和 Cortana 搜尋雲端來源，例如 OneDrive 和 SharePoint。
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Windows Search]
+"AllowCloudSearch"=dword:00000000
