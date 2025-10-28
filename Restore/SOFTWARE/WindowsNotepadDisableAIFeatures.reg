@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+# 1 = 停用記事本 Copilot AI 功能。
+# 0 或無此機碼 = 預設值。
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\WindowsNotepad]
+"DisableAIFeatures"=dword:00000001
