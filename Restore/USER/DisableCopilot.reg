@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+# 1 = 關閉 Copilot。
+# 0 或無此機碼 = 預設值。
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\WindowsCopilot]
+"TurnOffWindowsCopilot"=dword:00000001
