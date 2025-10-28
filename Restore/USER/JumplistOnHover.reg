@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+# JumplistOnHover | 停用 | 當游標停留在閒置中的工作列應用程式時,顯示捷徑清單。
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"JumplistOnHover"=dword:00000000
