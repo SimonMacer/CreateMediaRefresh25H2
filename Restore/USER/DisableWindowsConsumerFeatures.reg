@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+# DisableWindowsConsumerFeatures | 啟用 | 關閉 Microsoft 消費者體驗。
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CloudContent]
+"DisableWindowsConsumerFeatures"=dword:00000001
