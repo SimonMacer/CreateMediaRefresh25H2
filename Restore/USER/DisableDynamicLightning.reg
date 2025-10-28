@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+# AmbientLightingEnabled | 停用 | 在我的裝置上使用動態光效。
+[HKEY_CURRENT_USER\Software\Microsoft\Lighting]
+"AmbientLightingEnabled"=dword:00000000
+"ControlledByForegroundApp"=dword:00000000
