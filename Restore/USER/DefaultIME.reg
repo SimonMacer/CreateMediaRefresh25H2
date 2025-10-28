@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+# IME | 預設輸入模式: 英數字元 | 關閉使用左側 Shift 鍵。
+[HKEY_CURRENT_USER\Software\Microsoft\IME\15.0\IMETC]
+"Left Shift Usage"="0x00000002"
+"Right Shift Usage"="0x00000001"
+"Default Input Mode"="0x00000001"
