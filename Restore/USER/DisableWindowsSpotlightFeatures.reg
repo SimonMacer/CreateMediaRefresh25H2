@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+# DisableWindowsSpotlightFeatures | 啟用 | 關閉所有 Windows 焦點功能。
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\CloudContent]
+"DisableWindowsSpotlightFeatures"=dword:00000001
