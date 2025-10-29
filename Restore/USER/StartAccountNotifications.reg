@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+# 關閉在「開始」功能表中顯示與 Microsoft 帳戶相關的通知。
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"Start_AccountNotifications"=dword:00000000

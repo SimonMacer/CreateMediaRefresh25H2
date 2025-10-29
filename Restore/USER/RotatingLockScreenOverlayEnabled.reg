@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+# 關閉在鎖定畫面上取得有趣的事實、提示、技巧等。
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager]
+"RotatingLockScreenOverlayEnabled"=dword:00000000

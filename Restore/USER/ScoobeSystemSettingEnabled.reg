@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+# 關閉請提供充分利用 Windows 系統的方法，並完成此裝置的設定。
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\UserProfileEngagement]
+"ScoobeSystemSettingEnabled"=dword:00000000

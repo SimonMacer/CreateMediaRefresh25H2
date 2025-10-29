@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+# 停用通知系統設定中的「其他設定」。
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager]
+"SystemPaneSuggestionsEnabled"=dword:00000000

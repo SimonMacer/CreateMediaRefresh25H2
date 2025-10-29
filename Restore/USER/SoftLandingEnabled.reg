@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+# 關閉促銷置頂快捷方式。
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\ContentDeliveryManager]
+"SoftLandingEnabled"=dword:00000000
