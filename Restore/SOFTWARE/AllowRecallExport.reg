@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+# 0 = 不允許匯出 回顧和快照集資訊。
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsAI]
+"AllowRecallExport"=dword:00000000

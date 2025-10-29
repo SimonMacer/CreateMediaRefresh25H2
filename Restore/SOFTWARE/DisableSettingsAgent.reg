@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+# 設定代理體驗透過啟用自然語言來增強「設定」應用程式中的搜尋結果。
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsAI]
+"DisableSettingsAgent"=dword:00000001

@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+# 如果啟用此原則 (值設定為 1)，則會停用回顧資料提供者。如果停用此原則或未設定 (值 0)，則會啟用回顧資料提供者。
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsAI]
+"DisableRecallDataProviders"=dword:00000001
