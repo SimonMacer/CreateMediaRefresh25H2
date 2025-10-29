@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\OFFLINE\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"Start_AccountNotifications"=dword:00000000
