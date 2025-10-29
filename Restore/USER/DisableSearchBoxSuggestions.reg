@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+# 停用 Bing 搜尋建議和廣告。
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\Explorer]
+"DisableSearchBoxSuggestions"=dword:00000001
