@@ -11,6 +11,11 @@ Windows 11, version 25H2 Disc Image File Creation.
 * [下載及安裝 Windows ADK](https://learn.microsoft.com/zh-tw/windows-hardware/get-started/adk-install)。
 * Windows 11, version 24H2 Build 26100.1742 或最新 Windows 11, version 25H2 光碟映像檔 ISO。
 建議使用 Windows 11, version 24H2 Build 26100.1742 做為基底，General Availability Channel/Release Preview Channel 及 Dev/Beta Channel 皆是在 (Checkpoint) Build 26100.1742 為基礎。我們可以從 [Windows 11, version 24H2 (26100.1742) amd64 - UUP dump](https://uupdump.net/selectlang.php?id=e1d5e11a-7054-49cf-b9c9-ba54258d5cc6) 下載並製作此版本。
+* 建議使用 [VMware Workstation](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) 建立 Windows 11, version 23H2 Build 22631 環境下部屬 Windows 映像。部屬映像服務與管理工具版本 10.0.22621.2792 較為穩定，您可以使用本人製作的無 Windows Defender 及 UCPS.sys (User Choice Protection Driver) 的 Windows 11, version 23H2 Build 22631 建置虛擬機，並在此環境下製作 ISO。
+
+#### Windows 11, version 23H2 Build 22631 開發環境光碟映像檔 ISO 下載
+* 僅適用於虛擬機開發環境。
+下載 RAR [Part 1](https://drive.google.com/file/d/11eeW_JLqfEjU2A6J71aCCP8XmG9pbuIY/view?usp=sharing) | [Part 2](https://drive.google.com/file/d/16UCQLSsLSJclgKRTr6uLmFjHLL-QRN-j/view?usp=sharing) | [Part 3](https://drive.google.com/file/d/11FTtVFv6HoWtH8F7v9E8P0jf3J67ZY8m/view?usp=sharing) | 解壓密碼: `stdaio-26100-6650-release-prod`
 
 ### 更新套件應用
 * 如果使用高於 26100.1742 版本將無法應用 Dev/Beta Channel 更新套件。反之亦然，已更新 Dev/Beta Channel 版本將無法應用 GAC/RP 更新套件。例如下載 Win11_25H2_Chinese_Traditional_x64.iso (26200.6584) 僅能應用 GAC/RP 更新套件。
