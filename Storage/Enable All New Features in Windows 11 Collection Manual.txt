@@ -1,4 +1,7 @@
 Windows Registry Editor Version 5.00
+# Undo - Delete HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14 Registry Key and restore default values.
+# You will need to open CMD as administrator. Type the following command in CMD to Undo:
+# REG DELETE "HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14" /f
 
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
 
@@ -9,6 +12,36 @@ Windows Registry Editor Version 5.00
 
 # CFR Toggle Key, Most feature requirements. ViVetool ID: 49453572 (CFR RKey: 156965516)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\156965516]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Dark Mode dialog prereq. ViVetool ID: 58383338 (CFR RKey: 3587705487)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3587705487]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Dark Mode Run. ViVetool ID: 59270880 (CFR RKey: 3231968911)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3231968911]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Dark Mode Folder Options. ViVetool ID: 59203365 (CFR RKey: 1255272590)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1255272590]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Mobile Devices Settings Page. ViVetool ID: 56845155 (CFR RKey: 3332913294)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3332913294]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Privacy and Security Settings Page. ViVetool ID: 57118881 (CFR RKey: 1129197711)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1129197711]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Live Wallpaper. ViVetool ID: 57645315 (CFR RKey: 123478158)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\123478158]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
@@ -1610,4 +1643,5 @@ Windows Registry Editor Version 5.00
 # Previous Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 489372351 (CFR RKey: 467837582)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\467837582]
 "EnabledState"=dword:00000002
+
 "EnabledStateOptions"=dword:00000000
