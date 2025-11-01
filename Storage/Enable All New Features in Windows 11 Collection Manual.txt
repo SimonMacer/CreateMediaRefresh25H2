@@ -65,11 +65,6 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
-# If CFR RKey: 3036241548 not working. ViVetool ID: 47205210 (CFR RKey: 3036241548)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3036241548]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
 # If CFR RKey: 3036241548 not working. ViVetool ID: 49221331 (CFR RKey: 2792562829)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2792562829]
 "EnabledState"=dword:00000002
@@ -1654,3 +1649,4 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\467837582]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
+
