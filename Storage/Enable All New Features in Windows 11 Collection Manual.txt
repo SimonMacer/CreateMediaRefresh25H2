@@ -15,6 +15,16 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
+# New toggle Ask Copilot on in taskbar settings. ViVetool ID: 57739723 (CFR RKey: 2524716175)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2524716175]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New toggle Ask Copilot on in taskbar settings. ViVetool ID: 57941090 (CFR RKey: 3293976206)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3293976206]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 # Dark Mode dialog prereq. ViVetool ID: 58383338 (CFR RKey: 3587705487)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3587705487]
 "EnabledState"=dword:00000002
@@ -1645,3 +1655,4 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 
 "EnabledStateOptions"=dword:00000000
+
