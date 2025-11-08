@@ -15,3 +15,8 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4188347533]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
+
+# Addressing the requirement for a CFR Key in Windows 11 Insider Preview Build 28000 that Task Manager cannot terminate the process using the [X] button. ViVetool ID: 45036792 (CFR RKey: 4027031693)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4027031693]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
