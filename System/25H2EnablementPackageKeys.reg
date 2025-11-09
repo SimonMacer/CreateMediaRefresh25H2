@@ -1,0 +1,18 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\14]
+
+# Simplify toggle on New Start Menu. ViVetool ID: 47205210 (CFR RKey: 3036241548)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\14\3036241548]
+"EnabledState"=dword:00000001
+"EnabledStateOptions"=dword:00000000
+
+# New Cross Device Resume features. ViVetool ID: 56517033 (CFR RKey: 1387020943)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\14\1387020943]
+"EnabledState"=dword:00000001
+"EnabledStateOptions"=dword:00000000
+
+# New Drag Tray File-Sharing Flyout features. ViVetool ID: 45624564 (CFR RKey: 3895955085)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\14\3895955085]
+"EnabledState"=dword:00000001
+"EnabledStateOptions"=dword:00000000
