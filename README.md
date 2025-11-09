@@ -54,11 +54,11 @@ Windows 11, version 25H2 Disc Image File Creation.
 ### Win11_24H2_Customize\GAC-WIM
 * 放置來源 install.wim 文件。
 
-### Win11_24H2_Customize\MSEDGE
-* 放置 Microsoft Edge 更新套件。Edge 更新套件需要特別處理才能正確更新 install.wim 文件。
+### ~~Win11_24H2_Customize\MSEDGE~~
+* ~~放置 Microsoft Edge 更新套件。Edge 更新套件需要特別處理才能正確更新 install.wim 文件。~~
 
-[下載 Microsoft Edge Stable Channel Version 141.0.3537.99: October 23, 2025 更新套件](https://drive.google.com/file/d/1F6_FFSURA2lGqPrzJrdzsZm79ovXaEgE/view?usp=sharing)
-* 請將 MSEDGE_141.0.3537.99.7z 解壓縮至 .\MSEDGE 目錄中。
+~~[下載 Microsoft Edge Stable Channel Version 141.0.3537.99: October 23, 2025 更新套件](https://drive.google.com/file/d/1F6_FFSURA2lGqPrzJrdzsZm79ovXaEgE/view?usp=sharing)~~
+* ~~請將 MSEDGE_141.0.3537.99.7z 解壓縮至 .\MSEDGE 目錄中。~~
 
 ### Win11_24H2_Customize\sources
 * 請將 ./$OEM$.7z 解壓縮至同目錄並刪除。
@@ -112,9 +112,9 @@ Windows 11, version 25H2 Disc Image File Creation.
 
 3. 將 .\CreateMediaRefresh25H2-main.zip\CreateMediaRefresh25H2-main 解壓縮至 [Win11_24H2_Customize]。
 4. 將 24H2BootableMedia.7z 中的 24H2BootableMedia.iso 文件解壓縮至 [Win11_24H2_Customize]。
-5. 將 MSEDGE_141.0.3537.99.7z 解壓縮至 [.\MSEDGE]。`選擇性`
+5. ~~將 MSEDGE_141.0.3537.99.7z 解壓縮至 [.\MSEDGE]。`選擇性`~~
 6. 將 Win11_24H2_Customize\sources\$OEM$.7z 解壓縮至 [.\sources] 同目錄並刪除。`選擇性`
-7. 將Windows KB 更新套件放至 [.\KB] 目錄。
+7. 將 Windows KB 更新套件放至 [.\KB] 目錄。
 8. 編輯 CustomAppsList.txt 文件選擇想要刪除的商店應用程式，刪除 # 開頭字串將移除商店應用程式。`選擇性`
 9. 放置來源 install.wim 文件至 [.\GAC-WIM] 目錄。
 10. 以系統管理員身分執行 StartGenerateInstallationMedia25H2.cmd 文件。
@@ -133,9 +133,9 @@ Windows 11, version 25H2 Disc Image File Creation.
 
 > OS Build: 26200.7015
 
-11. 第一個選項是否想要更新 Microsoft Edge。
-12. 第二個選項是否想要移除 Microsoft Store 商店應用程式。
-13. 第三個選項是否啟用 Test Mode 測試模式。
+12. ~~第一個選項是否想要更新 Microsoft Edge。~~
+13. 第二個選項是否想要移除 Microsoft Store 商店應用程式。
+14. 第三個選項是否啟用 Test Mode 測試模式。
 
 ## 完成
 * 完成後的 install.esd 存放於 Win11_24H2_Customize\WORKING_WIM\install.esd。
