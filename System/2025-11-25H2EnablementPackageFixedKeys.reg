@@ -1,0 +1,603 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15]
+
+# CFR Toggle Key, Most feature requirements. ViVetool ID: 48433719 (CFR RKey: 1853569164)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1853569164]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# CFR Toggle Key, Most feature requirements. ViVetool ID: 49453572 (CFR RKey: 156965516)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\156965516]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5067036 CU Main Feature Bundle, Enable Most features. ViVetool ID: 57048231 (CFR RKey: 1318466191)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1318466191]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Simplify toggle on New Start Menu. ViVetool ID: 47205210 (CFR RKey: 3036241548)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3036241548]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Battery Icons and Percentage. ViVetool ID: 56328729 (CFR RKey: 862603406)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\862603406]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Notepad AI Write. ViVetool ID: 44574505 (CFR RKey: 1377939084)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1377939084]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Paint Welcome Experience. ViVetool ID: 57571928 (CFR RKey: 2962891406)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2962891406]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Snipping Tool Color Picker Tool. ViVetool ID: 56904074 (CFR RKey: 352073359)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\352073359]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Find Apps under the share with using section. ViVetool ID: 55512263 (CFR RKey: 2390122639)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2390122639]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Snipping Tool Window Mode with record features. ViVetool ID: 57757230 (CFR RKey: 1559370894)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1559370894]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Create animated GIFs on Windows 11 using the Snipping Tool. ViVetool ID: 47081492 (CFR RKey: 683631244)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\683631244]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Text Formatting in Notepad app in Windows 11. ViVetool ID: 41073112 (CFR RKey: 2971409037)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2971409037]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Snipping Tool text extractor shortcut. ViVetool ID: 52467192 (CFR RKey: 4047814287)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\4047814287]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Snipping Tool text extractor shortcut. ViVetool ID: 53079680 (CFR RKey: 28486799)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\28486799]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Windows 11 25H2 Method to Remove Bloatware. ViVetool ID: 57056100 (CFR RKey: 3378000526)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3378000526]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New File Explorer Features in Windows 11. ViVetool ID: 49143212 (CFR RKey: 1507140749)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1507140749]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New File Explorer Features in Windows 11. ViVetool ID: 52081114 (CFR RKey: 3037514383)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3037514383]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Taskbar Thumbnails. ViVetool ID: 29532725 (CFR RKey: 1798011530)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1798011530]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Win + Shift + T keyboard shortcut for Snipping Tool. ViVetool ID: 56661439 (CFR RKey: 2135178895)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2135178895]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Win + Shift + T keyboard shortcut for Snipping Tool. ViVetool ID: 56664238 (CFR RKey: 1563311759)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1563311759]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Show hover cards for inactive and pinned taskbar apps. ViVetool ID: 48980211 (CFR RKey: 3870238861)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3870238861]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Windows 11 Snipping Tool Now Lets You Annotate on Screen: New Quick Markup!. ViVetool ID: 59193772 (CFR RKey: 1478357135)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1478357135]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Windows 11 Snipping Tool Now Lets You Annotate on Screen: New Quick Markup! ViVetool ID: 56241690 (CFR RKey: 875711118)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\875711118]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Windows 11 Snipping Tool Now Support Windowed Recording. ViVetool ID: 59193758 (CFR RKey: 1008595087)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1008595087]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Dark Mode Copy Dialogs in Windows 11. ViVetool ID: 57857165 (CFR RKey: 465967759)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\465967759]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Dark Mode Copy Dialogs in Windows 11. ViVetool ID: 57994323 (CFR RKey: 2813728398)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2813728398]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 483793649 (CFR RKey: 1014127758)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1014127758]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 479610611 (CFR RKey: 1029471374)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1029471374]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 518246133 (CFR RKey: 1050166927)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1050166927]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 518764047 (CFR RKey: 1134838415)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1134838415]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 474104321 (CFR RKey: 1147016846)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1147016846]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 504091137 (CFR RKey: 1150694031)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1150694031]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 469896729 (CFR RKey: 1215837838)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1215837838]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 506339869 (CFR RKey: 1248731279)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1248731279]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 492553757 (CFR RKey: 1251777166)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1251777166]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 508190225 (CFR RKey: 1280316047)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1280316047]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 481532439 (CFR RKey: 1337093774)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1337093774]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 457615513 (CFR RKey: 137073805)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\137073805]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 484391459 (CFR RKey: 1440897166)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1440897166]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 422755365 (CFR RKey: 1445047948)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1445047948]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 474639921 (CFR RKey: 1548227214)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1548227214]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 506345011 (CFR RKey: 1566843023)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1566843023]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 536562229 (CFR RKey: 1591397007)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1591397007]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 534501019 (CFR RKey: 160750223)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\160750223]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 386115151 (CFR RKey: 1672263307)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1672263307]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 386096719 (CFR RKey: 1674622603)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1674622603]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 352724035 (CFR RKey: 1701688458)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1701688458]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 506339909 (CFR RKey: 1718493327)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1718493327]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 441335879 (CFR RKey: 1734283405)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1734283405]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 403646535 (CFR RKey: 1743466636)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1743466636]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 478131869 (CFR RKey: 178522254)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\178522254]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 485931601 (CFR RKey: 1814187150)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1814187150]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 509243987 (CFR RKey: 1833310863)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1833310863]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 405216341 (CFR RKey: 1861297292)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1861297292]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 507424415 (CFR RKey: 187181199)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\187181199]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 336468585 (CFR RKey: 1886531722)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\1886531722]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 407070879 (CFR RKey: 197858956)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\197858956]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 456863865 (CFR RKey: 2028448397)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2028448397]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 500078225 (CFR RKey: 204787854)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\204787854]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 510116747 (CFR RKey: 2174616719)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2174616719]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 476026763 (CFR RKey: 2176063630)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2176063630]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 417030543 (CFR RKey: 2211404428)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2211404428]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 386115487 (CFR RKey: 2343351947)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2343351947]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 474122131 (CFR RKey: 2369525390)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2369525390]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 403309999 (CFR RKey: 2474455692)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2474455692]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 477540257 (CFR RKey: 2485652622)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2485652622]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 474123195 (CFR RKey: 2570720910)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2570720910]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 472862653 (CFR RKey: 2597855374)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2597855374]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 523235255 (CFR RKey: 2676531343)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2676531343]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 496635853 (CFR RKey: 2725837454)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2725837454]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 470268865 (CFR RKey: 2762093710)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2762093710]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 469706181 (CFR RKey: 2800601229)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2800601229]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 493048489 (CFR RKey: 282494606)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\282494606]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 516921995 (CFR RKey: 28463247)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\28463247]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 489851869 (CFR RKey: 2855972494)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2855972494]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 519826397 (CFR RKey: 2861189775)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2861189775]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 471491551 (CFR RKey: 2874030734)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2874030734]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 470268909 (CFR RKey: 2996974734)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2996974734]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 503461871 (CFR RKey: 3009689231)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3009689231]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 477049825 (CFR RKey: 3034972302)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3034972302]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 486274021 (CFR RKey: 3062254222)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3062254222]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 402911719 (CFR RKey: 3079091852)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3079091852]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 518471673 (CFR RKey: 3101705359)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3101705359]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 505833459 (CFR RKey: 3175883919)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3175883919]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 336462839 (CFR RKey: 3212718218)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3212718218]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 473653001 (CFR RKey: 3234867854)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3234867854]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 498241799 (CFR RKey: 3342331534)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3342331534]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 526584583 (CFR RKey: 3355084431)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3355084431]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 475225881 (CFR RKey: 3369082510)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3369082510]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 503809809 (CFR RKey: 3434886287)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3434886287]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 446926099 (CFR RKey: 3451479693)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3451479693]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 439044373 (CFR RKey: 3470467725)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3470467725]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 474706737 (CFR RKey: 3703968398)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3703968398]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 449218867 (CFR RKey: 3711653005)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3711653005]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 505915209 (CFR RKey: 3769377935)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3769377935]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 430611807 (CFR RKey: 3945915020)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\3945915020]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 476454761 (CFR RKey: 4033873038)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\4033873038]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 478601913 (CFR RKey: 403600526)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\403600526]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 473876335 (CFR RKey: 4078708878)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\4078708878]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 479965029 (CFR RKey: 4138236558)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\4138236558]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 471239527 (CFR RKey: 4147788942)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\4147788942]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 519250809 (CFR RKey: 4176367247)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\4176367247]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 482742139 (CFR RKey: 4185412750)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\4185412750]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 483339135 (CFR RKey: 4226437262)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\4226437262]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 508273339 (CFR RKey: 430838415)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\430838415]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 479909555 (CFR RKey: 487881358)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\487881358]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 495088845 (CFR RKey: 575010446)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\575010446]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 497433281 (CFR RKey: 610460814)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\610460814]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 522322627 (CFR RKey: 629057167)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\629057167]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 452950211 (CFR RKey: 633555085)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\633555085]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 495088861 (CFR RKey: 709228174)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\709228174]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 505115357 (CFR RKey: 717634191)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\717634191]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 439507159 (CFR RKey: 793980557)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\793980557]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 471736047 (CFR RKey: 862992526)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\862992526]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 370022127 (CFR RKey: 863252619)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\863252619]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 485146337 (CFR RKey: 874529422)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\874529422]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 484152037 (CFR RKey: 917920398)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\917920398]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 513973991 (CFR RKey: 925918863)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\925918863]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 505289467 (CFR RKey: 963786895)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\963786895]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5068861 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 518246141 (CFR RKey: 983058063)
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\983058063]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
