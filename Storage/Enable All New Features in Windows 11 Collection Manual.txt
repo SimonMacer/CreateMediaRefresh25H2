@@ -5,6 +5,36 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
 
+# CFR Toggle Key, Enable KB5070311 (26200.7296+) Most feature. ViVetool ID: 57048237 (CFR RKey: 1519792783)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1519792783]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable New About settings page. ViVetool ID: 59265307 (CFR RKey: 919465614)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\919465614]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable New device card in Settings Home. ViVetool ID: 53343270 (CFR RKey: 1300669582)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1300669582]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable New Cloud File Search Toggle. ViVetool ID: 45690266 (CFR RKey: 875924621)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\875924621]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable New Widgets. ViVetool ID: 55994763 (CFR RKey: 381440655)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\381440655]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable New Widgets. ViVetool ID: 59162732 (CFR RKey: 3656381070)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3656381070]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 # CFR Toggle Key, Most feature requirements. ViVetool ID: 50557073 (CFR RKey: 579795087)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\579795087]
 "EnabledState"=dword:00000002
@@ -1599,6 +1629,7 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\467837582]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
+
 
 
 
