@@ -1,8 +1,0 @@
-Windows Registry Editor Version 5.00
-
-[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\9]
-
-# New Cross Device Resume features. ViVetool ID: 56517033 (CFR RKey: 1387020943)
-[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\9\1387020943]
-"EnabledState"=dword:00000001
-"EnabledStateOptions"=dword:00000000
