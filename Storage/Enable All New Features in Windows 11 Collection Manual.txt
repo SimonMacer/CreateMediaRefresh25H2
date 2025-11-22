@@ -444,6 +444,27 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
+# ViVetool ID: 58423575 (CFR RKey: 781977742)
+# New File Explorer updated the ordering of actions to group similar tasks. This includes:
+# We’ve moved Compress to ZIP file, Copy as Path, Set as Desktop Background, and Rotate Right, and Rotate Left into a new Manage file flyout.
+# We’ve moved cloud provider options, like Always Keep on this Device and Free Up Space, into their relevant cloud provider flyout.
+# We’ve moved Send to My Phone next to the cloud provider options.
+# We’ve moved Open Folder Location to now be next to Open and Open with.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\781977742]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# ViVetool ID: 58047213 (CFR RKey: 3675919503)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3675919503]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+"Variant"=dword:00000002
+
+# Enable exploring preloading File Explorer in the background to help improve File Explorer launch performance. You can uncheck to disable this called [Enable window preloading for faster launch times] in File Explorer’s Folder Options, under View. ViVetool ID: 58778013 (CFR RKey: 1001258639)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1001258639]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 # Enable New Xbox Full Screen Experience (FSE). ViVetool ID: 59765208 (CFR RKey: 2978865295)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2978865295]
 "EnabledState"=dword:00000002
@@ -1283,4 +1304,5 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\983058063]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
+
 
