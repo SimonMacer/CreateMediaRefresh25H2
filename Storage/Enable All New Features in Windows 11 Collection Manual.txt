@@ -444,6 +444,26 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
+# Enable New Windows MIDI Services. ViVetool ID: 38679741 (CFR RKey: 2047238797)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2047238797]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable [Open With] menu with Microsoft Store suggestions. ViVetool ID: 41118774 (CFR RKey: 1823873164)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1823873164]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable [Open With] menu with Microsoft Store suggestions. ViVetool ID: 55805655 (CFR RKey: 2942457999)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2942457999]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Model Context Protocol (MCP) with On-Device Registry (ODR). ViVetool ID: 59213523 (CFR RKey: 2808344719)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2808344719]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 # ViVetool ID: 58423575 (CFR RKey: 781977742)
 # New File Explorer updated the ordering of actions to group similar tasks. This includes:
 # We’ve moved Compress to ZIP file, Copy as Path, Set as Desktop Background, and Rotate Right, and Rotate Left into a new Manage file flyout.
@@ -1349,6 +1369,7 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\983058063]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
+
 
 
 
