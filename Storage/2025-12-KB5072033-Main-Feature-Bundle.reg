@@ -5,23 +5,18 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
 
-# CFR Toggle Key, Enable KB5070311 (26200.7296+) Most feature. ViVetool ID: 57048237 (CFR RKey: 1519792783)
+# CFR Toggle Key, Enable 2025-12 Security Update (KB5072033) (26200.7462) Most features. ViVetool ID: 57048237 (CFR RKey: 1519792783)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1519792783]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
-# KB5067036 CU Main Feature Bundle, Enable Most features. ViVetool ID: 57048231 (CFR RKey: 1318466191)
+# CFR Toggle Key, Enable 2025-11 Security Update (KB5068861) (26200.7171) Most features. ViVetool ID: 57048231 (CFR RKey: 1318466191)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1318466191]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
 # New animations preview transition that appear when hovering over app groups on the taskbar as you slide between apps.  ViVetool ID: 505387641 (CFR RKey: 2024945807)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2024945807]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# Enable New Recommended Files Section in File Explorer. ViVetool ID: 48895801 (CFR RKey: 1916873356)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1916873356]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
@@ -39,6 +34,19 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4199424143]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
+
+# Enable New Recommended Files Section in File Explorer. ViVetool ID: 48895801 (CFR RKey: 1916873356)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1916873356]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Minimalistic Context Menu in File Explorer.  ViVetool ID: 58047213 (CFR RKey: 3675919503)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3675919503]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+"Variant"=dword:00000002
+"VariantPayloadKind"=dword:00000000
+"VariantPayload"=dword:00000000
 
 # New Drag Tray File-Sharing Flyout features. ViVetool ID: 45624564 (CFR RKey: 3895955085)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3895955085]
@@ -290,6 +298,16 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
+# KB5070311 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 56877808 (CFR RKey: 3786029199)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3786029199]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5070311 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 58676754 (CFR RKey: 616693902)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\616693902]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 # KB5070311 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 59766075 (CFR RKey: 2005262478)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2005262478]
 "EnabledState"=dword:00000002
@@ -307,24 +325,6 @@ Windows Registry Editor Version 5.00
 
 # KB5070311 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 59272411 (CFR RKey: 3065507471)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3065507471]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# KB5070311 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 58047213 (CFR RKey: 3675919503)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3675919503]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-"Variant"=dword:00000002
-"VariantPayloadKind"=dword:00000000
-"VariantPayload"=dword:00000000
-
-# KB5070311 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 56877808 (CFR RKey: 3786029199)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3786029199]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# KB5070311 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 58676754 (CFR RKey: 616693902)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\616693902]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
