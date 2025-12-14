@@ -415,8 +415,191 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
 
+# CFR Toggle Key, Enable 2025-12 Security Update (KB5072033) (26200.7462) Most features. ViVetool ID: 57048237 (CFR RKey: 1519792783)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1519792783]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# CFR Toggle Key, Enable 2025-11 Security Update (KB5068861) (26200.7171) Most features. ViVetool ID: 57048231 (CFR RKey: 1318466191)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1318466191]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 # New animations preview transition that appear when hovering over app groups on the taskbar as you slide between apps.  ViVetool ID: 505387641 (CFR RKey: 2024945807)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2024945807]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Taskbar Animation. ViVetool ID: 41356296 (CFR RKey: 276172940)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\276172940]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Share any window from my taskbar. ViVetool ID: 57882334 (CFR RKey: 3154253967)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3154253967]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Improved AI Search In Windows Settings. ViVetool ID: 57610493 (CFR RKey: 4199424143)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4199424143]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable New Recommended Files Section in File Explorer. ViVetool ID: 48895801 (CFR RKey: 1916873356)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1916873356]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Minimalistic Context Menu in File Explorer.  ViVetool ID: 58047213 (CFR RKey: 3675919503)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3675919503]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+"Variant"=dword:00000002
+"VariantPayloadKind"=dword:00000000
+"VariantPayload"=dword:00000000
+
+# New Drag Tray File-Sharing Flyout features. ViVetool ID: 45624564 (CFR RKey: 3895955085)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3895955085]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Drag Tray Improvements. ViVetool ID: 56631583 (CFR RKey: 1043086990)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1043086990]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Drag Tray Improvements. ViVetool ID: 56632969 (CFR RKey: 304234127)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\304234127]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Drag Tray Improvements. ViVetool ID: 58542295 (CFR RKey: 2935882895)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2935882895]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable New Cloud File Search Toggle. ViVetool ID: 45690266 (CFR RKey: 875924621)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\875924621]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable New Widgets. ViVetool ID: 55994763 (CFR RKey: 381440655)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\381440655]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable New Widgets. ViVetool ID: 59162732 (CFR RKey: 3656381070)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3656381070]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable New About settings page. ViVetool ID: 59265307 (CFR RKey: 919465614)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\919465614]
+"EnabledState"=dword:00000001
+"EnabledStateOptions"=dword:00000000
+
+# Enable New device card in Settings Home. ViVetool ID: 53343270 (CFR RKey: 1300669582)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1300669582]
+"EnabledState"=dword:00000001
+"EnabledStateOptions"=dword:00000000
+
+# Simplify toggle on New Start Menu. ViVetool ID: 47205210 (CFR RKey: 3036241548)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3036241548]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Battery Icons and Percentage. ViVetool ID: 56328729 (CFR RKey: 862603406)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\862603406]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Notepad AI Write. ViVetool ID: 44574505 (CFR RKey: 1377939084)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1377939084]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Paint Welcome Experience. ViVetool ID: 57571928 (CFR RKey: 2962891406)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2962891406]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Snipping Tool Color Picker Tool. ViVetool ID: 56904074 (CFR RKey: 352073359)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\352073359]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Cross Device Resume features. ViVetool ID: 56517033 (CFR RKey: 1387020943)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1387020943]
+"EnabledState"=dword:00000001
+"EnabledStateOptions"=dword:00000000
+
+# New Snipping Tool Window Mode with record features. ViVetool ID: 57757230 (CFR RKey: 1559370894)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1559370894]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Create animated GIFs on Windows 11 using the Snipping Tool. ViVetool ID: 47081492 (CFR RKey: 683631244)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\683631244]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Text Formatting in Notepad app in Windows 11. ViVetool ID: 41073112 (CFR RKey: 2971409037)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2971409037]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Snipping Tool text extractor shortcut. ViVetool ID: 52467192 (CFR RKey: 4047814287)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4047814287]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Snipping Tool text extractor shortcut. ViVetool ID: 53079680 (CFR RKey: 28486799)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\28486799]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Windows 11 25H2 Method to Remove Bloatware. ViVetool ID: 57056100 (CFR RKey: 3378000526)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3378000526]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Taskbar Thumbnails. ViVetool ID: 29532725 (CFR RKey: 1798011530)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1798011530]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Win + Shift + T keyboard shortcut for Snipping Tool. ViVetool ID: 56661439 (CFR RKey: 2135178895)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2135178895]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Win + Shift + T keyboard shortcut for Snipping Tool. ViVetool ID: 56664238 (CFR RKey: 1563311759)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1563311759]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Windows 11 Snipping Tool Now Lets You Annotate on Screen: New Quick Markup!. ViVetool ID: 59193772 (CFR RKey: 1478357135)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1478357135]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Windows 11 Snipping Tool Now Lets You Annotate on Screen: New Quick Markup! ViVetool ID: 56241690 (CFR RKey: 875711118)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\875711118]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Windows 11 Snipping Tool Now Support Windowed Recording. ViVetool ID: 59193758 (CFR RKey: 1008595087)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1008595087]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Dark Mode Copy Dialogs in Windows 11. ViVetool ID: 57857165 (CFR RKey: 465967759)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\465967759]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Dark Mode Copy Dialogs in Windows 11. ViVetool ID: 57994323 (CFR RKey: 2813728398)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2813728398]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
@@ -530,8 +713,13 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
-# Enable New Recommended Files Section in File Explorer. ViVetool ID: 48895801 (CFR RKey: 1916873356)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1916873356]
+# KB5070311 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 56877808 (CFR RKey: 3786029199)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3786029199]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5070311 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 58676754 (CFR RKey: 616693902)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\616693902]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
@@ -552,194 +740,6 @@ Windows Registry Editor Version 5.00
 
 # KB5070311 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 59272411 (CFR RKey: 3065507471)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3065507471]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# KB5070311 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 58047213 (CFR RKey: 3675919503)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3675919503]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-"Variant"=dword:00000002
-"VariantPayloadKind"=dword:00000000
-"VariantPayload"=dword:00000000
-
-# KB5070311 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 56877808 (CFR RKey: 3786029199)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3786029199]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# KB5070311 Cumulative Security Update Gradual Rollout Features.  ViVetool ID: 58676754 (CFR RKey: 616693902)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\616693902]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# CFR Toggle Key, Enable KB5070311 (26200.7296+) Most feature. ViVetool ID: 57048237 (CFR RKey: 1519792783)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1519792783]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Taskbar Animation. ViVetool ID: 41356296 (CFR RKey: 276172940)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\276172940]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Share any window from my taskbar. ViVetool ID: 57882334 (CFR RKey: 3154253967)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3154253967]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Improved AI Search In Windows Settings. ViVetool ID: 57610493 (CFR RKey: 4199424143)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4199424143]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Drag Tray File-Sharing Flyout features. ViVetool ID: 45624564 (CFR RKey: 3895955085)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3895955085]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Drag Tray Improvements. ViVetool ID: 56631583 (CFR RKey: 1043086990)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1043086990]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Drag Tray Improvements. ViVetool ID: 56632969 (CFR RKey: 304234127)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\304234127]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Drag Tray Improvements. ViVetool ID: 58542295 (CFR RKey: 2935882895)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2935882895]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# Enable New Cloud File Search Toggle. ViVetool ID: 45690266 (CFR RKey: 875924621)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\875924621]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# Enable New Widgets. ViVetool ID: 55994763 (CFR RKey: 381440655)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\381440655]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# Enable New Widgets. ViVetool ID: 59162732 (CFR RKey: 3656381070)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3656381070]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# Enable New About settings page. ViVetool ID: 59265307 (CFR RKey: 919465614)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\919465614]
-"EnabledState"=dword:00000001
-"EnabledStateOptions"=dword:00000000
-
-# Enable New device card in Settings Home. ViVetool ID: 53343270 (CFR RKey: 1300669582)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1300669582]
-"EnabledState"=dword:00000001
-"EnabledStateOptions"=dword:00000000
-
-# KB5067036 CU Main Feature Bundle, Enable Most features. ViVetool ID: 57048231 (CFR RKey: 1318466191)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1318466191]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# Simplify toggle on New Start Menu. ViVetool ID: 47205210 (CFR RKey: 3036241548)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3036241548]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Battery Icons and Percentage. ViVetool ID: 56328729 (CFR RKey: 862603406)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\862603406]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Notepad AI Write. ViVetool ID: 44574505 (CFR RKey: 1377939084)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1377939084]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Paint Welcome Experience. ViVetool ID: 57571928 (CFR RKey: 2962891406)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2962891406]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Snipping Tool Color Picker Tool. ViVetool ID: 56904074 (CFR RKey: 352073359)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\352073359]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Cross Device Resume features. ViVetool ID: 56517033 (CFR RKey: 1387020943)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1387020943]
-"EnabledState"=dword:00000001
-"EnabledStateOptions"=dword:00000000
-
-# New Snipping Tool Window Mode with record features. ViVetool ID: 57757230 (CFR RKey: 1559370894)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1559370894]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# Create animated GIFs on Windows 11 using the Snipping Tool. ViVetool ID: 47081492 (CFR RKey: 683631244)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\683631244]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# Text Formatting in Notepad app in Windows 11. ViVetool ID: 41073112 (CFR RKey: 2971409037)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2971409037]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Snipping Tool text extractor shortcut. ViVetool ID: 52467192 (CFR RKey: 4047814287)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4047814287]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Snipping Tool text extractor shortcut. ViVetool ID: 53079680 (CFR RKey: 28486799)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\28486799]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Windows 11 25H2 Method to Remove Bloatware. ViVetool ID: 57056100 (CFR RKey: 3378000526)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3378000526]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Taskbar Thumbnails. ViVetool ID: 29532725 (CFR RKey: 1798011530)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1798011530]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Win + Shift + T keyboard shortcut for Snipping Tool. ViVetool ID: 56661439 (CFR RKey: 2135178895)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2135178895]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Win + Shift + T keyboard shortcut for Snipping Tool. ViVetool ID: 56664238 (CFR RKey: 1563311759)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1563311759]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# Windows 11 Snipping Tool Now Lets You Annotate on Screen: New Quick Markup!. ViVetool ID: 59193772 (CFR RKey: 1478357135)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1478357135]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# Windows 11 Snipping Tool Now Lets You Annotate on Screen: New Quick Markup! ViVetool ID: 56241690 (CFR RKey: 875711118)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\875711118]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# Windows 11 Snipping Tool Now Support Windowed Recording. ViVetool ID: 59193758 (CFR RKey: 1008595087)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1008595087]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Dark Mode Copy Dialogs in Windows 11. ViVetool ID: 57857165 (CFR RKey: 465967759)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\465967759]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Dark Mode Copy Dialogs in Windows 11. ViVetool ID: 57994323 (CFR RKey: 2813728398)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2813728398]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
@@ -1434,3 +1434,4 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\156965516]
 "EnabledState"=dword:00000001
 "EnabledStateOptions"=dword:00000000
+
