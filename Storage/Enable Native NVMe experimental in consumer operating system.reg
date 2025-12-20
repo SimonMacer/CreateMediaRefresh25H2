@@ -1,0 +1,23 @@
+Windows Registry Editor Version 5.00
+# Undo - Delete HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14 Registry Key and restore default values.
+# You will need to open CMD as administrator. Type the following command in CMD to Undo:
+# REG DELETE "HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14" /f
+# Warnning: 156965516 and 1853569164 is Insider Preview experimental IDs. Activating these two IDs in general OS build 26100/26200 will enable some experimental features. which could introduce some potential bugs.
+# We do not recommend enabling native NVMe support in general OS build 26100/26200. this feature is experimental in the consumer version of the system and contains many bugs. You need to understand the risks involved in enabling experimental features.
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
+
+# CFR Toggle Key, Windows Insiders Preview Channel feature requirements. ViVetool ID: 48433719 (CFR RKey: 1853569164)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1853569164]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# CFR Toggle Key, Windows Insiders Preview Channel feature requirements. ViVetool ID: 49453572 (CFR RKey: 156965516)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\156965516]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Native NVMe experimental in consumer operating system. ViVetool ID: 55369237 (CFR RKey: 735209102)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\735209102]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
