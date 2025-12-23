@@ -444,6 +444,31 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
+# Enable Modern Run Box. ViVetool ID: 57156807 (CFR RKey: 2384866959)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2384866959]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Modern Run Box. ViVetool ID: 57259990 (CFR RKey: 2902469775)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2902469775]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Modern Run Box. ViVetool ID: 58381341 (CFR RKey: 1002834574)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1002834574]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Modern Run Box. ViVetool ID: 58527096 (CFR RKey: 4034135182)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4034135182]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Voice Typing Experience in the Touch Keyboard. ViVetool ID: 58978959 (CFR RKey: 529266831)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\529266831]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 # Enable Taskbar AI agent. ViVetool ID: 58938944 (CFR RKey: 2160326798)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2160326798]
 "EnabledState"=dword:00000002
@@ -1424,6 +1449,7 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\983058063]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
+
 
 
 
