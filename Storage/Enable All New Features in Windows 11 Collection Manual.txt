@@ -444,6 +444,41 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
+# Enable Taskbar AI agent. ViVetool ID: 58938944 (CFR RKey: 2160326798)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2160326798]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Taskbar AI agent. ViVetool ID: 57900749 (CFR RKey: 2593265807)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2593265807]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Taskbar AI agent. ViVetool ID: 58324036 (CFR RKey: 2307263630)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2307263630]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Voice Access new setup flow. ViVetool ID: 58680439 (CFR RKey: 4003856526)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4003856526]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Change Account Type Dialog in Settings. ViVetool ID: 59359094 (CFR RKey: 3977374862)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3977374862]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable AI Agent in Settings Language Expansion. ViVetool ID: 53427769 (CFR RKey: 1913823374)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1913823374]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable AI Agent in Settings Language Expansion. ViVetool ID: 57244651 (CFR RKey: 3600297103)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3600297103]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 # Enable AI Actions no longer appears in File Explorer context menus if no actions are available. ViVetool ID: 59193521 (CFR RKey: 1646260367)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1646260367]
 "EnabledState"=dword:00000002
@@ -1389,6 +1424,7 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\983058063]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
+
 
 
 
