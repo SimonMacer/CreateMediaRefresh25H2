@@ -444,6 +444,26 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
+# New Dialogs for Turning Windows Protected Print Mode in both Light and Dark Mode. ViVetool ID: 57741219 (CFR RKey: 1181752463)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1181752463]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New WhatsApp Resume. ViVetool ID: 49059846 (CFR RKey: 224339596)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\224339596]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Return of top cards, most UI changes reverted, Storage info under device info. (Requires 59265307) ViVetool ID: 60597402 (CFR RKey: 891799183)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\891799183]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Return of top cards, most UI changes reverted, Graphics card info in device info. (Requires 59265307) ViVetool ID: 60825171 (CFR RKey: 2790506126)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2790506126]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 # Enable Modern Run Box. ViVetool ID: 57156807 (CFR RKey: 2384866959)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2384866959]
 "EnabledState"=dword:00000002
@@ -1449,6 +1469,7 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\983058063]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
+
 
 
 
