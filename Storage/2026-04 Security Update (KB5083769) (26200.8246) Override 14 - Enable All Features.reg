@@ -5,6 +5,21 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
 
+# 2026-04 Security Update (KB5083769) (26200.8246) - Start
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1430172815]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2028712078]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4023563915]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# 2026-04 Security Update (KB5083769) (26200.8246) - End
+
 # 2026-03 Security Update (KB5079473) (26200.8037) - Start
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1735384207]
 "EnabledState"=dword:00000002
