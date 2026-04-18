@@ -6,6 +6,11 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
 
 # 2026-04 Preview Update (KB5083631) (26200.8313) - Start
+# Enable New Xbox Full Screen Experience (FSE). ViVetool ID: 59765208 (CFR RKey: 2978865295)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2978865295]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 # We’re increasing the size limit for formatting FAT32 volumes via the command line from 32GB to 2TB. ViVetool ID: 60772592 (CFR RKey: 3771711631)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3771711631]
 "EnabledState"=dword:00000002
