@@ -6,6 +6,11 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
 
 # 2026-04 Preview Update (KB5083631) (26200.8313) - Start
+# 2026-04 Preview Update (KB5083631) (26200.8313) Main Feature Bundle. ViVetool ID: 58989070 (CFR RKey: 475788942)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\475788942]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 # Removes white flash when launching File Explorer in dark mode if File Explorer was set to launch to This PC or when resizing the details pane. ViVetool ID: 46719714 (CFR RKey: 3316346509)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3316346509]
 "EnabledState"=dword:00000002
