@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+# Undo - Delete HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14 Registry Key and restore default values.
+# You will need to open CMD as administrator. Type the following command in CMD to Undo:
+# REG DELETE "HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14" /f
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
+
+# Removes white flash when launching File Explorer in dark mode if File Explorer was set to launch to This PC or when resizing the details pane. ViVetool ID: 46719714 (CFR RKey: 3316346509)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3316346509]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable exploring preloading File Explorer in the background to help improve File Explorer launch performance. You can uncheck to disable this called [Enable window preloading for faster launch times] in File Explorer’s Folder Options, under View. ViVetool ID: 58778013 (CFR RKey: 1001258639)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1001258639]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
