@@ -1,0 +1,611 @@
+Windows Registry Editor Version 5.00
+# Undo - Delete HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14 Registry Key and restore default values.
+# You will need to open CMD as administrator. Type the following command in CMD to Undo:
+# REG DELETE "HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14" /f
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
+
+## Insider Experimental Preview feature
+# CFR Toggle Key, Windows Insiders Preview Channel feature requirements. ViVetool ID: 48433719 (CFR RKey: 1853569164)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1853569164]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# CFR Toggle Key, Windows Insiders Preview Channel feature requirements. ViVetool ID: 49453572 (CFR RKey: 156965516)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\156965516]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# CFR Toggle Key, Windows Insiders Preview Channel feature requirements.  ViVetool ID: 523737739 (CFR RKey: 28486799)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\28486799]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Insider Program Experimental and Beta Channel settings on Windows 11. ViVetool ID: 61157505 (CFR RKey: 34583695)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\34583695]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Feature Flags settings on Windows 11. ViVetool ID: 60911173 (CFR RKey: 2327035022)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2327035022]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New shutdown/logout screen. ViVetool ID: 59728252 (CFR RKey: 4172144782)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4172144782]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New pause updates controls in Settings. ViVetool ID: 61410885 (CFR RKey: 2322836622)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2322836622]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New along with performance improvements. ViVetool ID: 60878308 (CFR RKey: 3384131215)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3384131215]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Native NVME Driver Support. ViVetool ID: 55369237 (CFR RKey: 735209102)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\735209102]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Native NVME Driver Support. ViVetool ID: 59254307 (CFR RKey: 1176759950)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1176759950]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New WhatsApp Resume. ViVetool ID: 49059846 (CFR RKey: 224339596)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\224339596]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Return of top cards, most UI changes reverted, Storage info under device info. (Requires 59265307) ViVetool ID: 60597402 (CFR RKey: 891799183)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\891799183]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Return of top cards, most UI changes reverted, Graphics card info in device info. (Requires 59265307) ViVetool ID: 60825171 (CFR RKey: 2790506126)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2790506126]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Dark Mode Dialog in Settings. ViVetool ID: 59149945 (CFR RKey: 4084462222)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4084462222]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Modern Run Box. ViVetool ID: 57156807 (CFR RKey: 2384866959)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2384866959]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Modern Run Box. ViVetool ID: 57259990 (CFR RKey: 2902469775)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2902469775]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Modern Run Box. ViVetool ID: 58381341 (CFR RKey: 1002834574)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1002834574]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Modern Run Box. ViVetool ID: 58527096 (CFR RKey: 4034135182)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4034135182]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Taskbar AI agent. ViVetool ID: 58938944 (CFR RKey: 2160326798)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2160326798]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Taskbar AI agent. ViVetool ID: 57900749 (CFR RKey: 2593265807)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2593265807]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Taskbar AI agent. ViVetool ID: 58324036 (CFR RKey: 2307263630)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2307263630]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Change Account Type Dialog in Settings. ViVetool ID: 59359094 (CFR RKey: 3977374862)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3977374862]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable AI Agent in Settings Language Expansion. ViVetool ID: 53427769 (CFR RKey: 1913823374)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1913823374]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable AI Agent in Settings Language Expansion. ViVetool ID: 57244651 (CFR RKey: 3600297103)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3600297103]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable AI Actions no longer appears in File Explorer context menus if no actions are available. ViVetool ID: 59193521 (CFR RKey: 1646260367)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1646260367]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable [Open With] menu with Microsoft Store suggestions. ViVetool ID: 41118774 (CFR RKey: 1823873164)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1823873164]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable [Open With] menu with Microsoft Store suggestions. ViVetool ID: 55805655 (CFR RKey: 2942457999)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2942457999]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Model Context Protocol (MCP) with On-Device Registry (ODR). ViVetool ID: 59213523 (CFR RKey: 2808344719)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2808344719]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# ViVetool ID: 58423575 (CFR RKey: 781977742)
+# New File Explorer updated the ordering of actions to group similar tasks. This includes:
+# We’ve moved Compress to ZIP file, Copy as Path, Set as Desktop Background, and Rotate Right, and Rotate Left into a new Manage file flyout.
+# We’ve moved cloud provider options, like Always Keep on this Device and Free Up Space, into their relevant cloud provider flyout.
+# We’ve moved Send to My Phone next to the cloud provider options.
+# We’ve moved Open Folder Location to now be next to Open and Open with.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\781977742]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Point-in-time Restore.  ViVetool ID: 55324166 (CFR RKey: 204629646)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\204629646]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Point-in-time Restore.  ViVetool ID: 59673297 (CFR RKey: 2742805135)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2742805135]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable New Gamepad On-Screen Keyboard Layout. ViVetool ID: 50557073 (CFR RKey: 579795087)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\579795087]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable New Gamepad On-Screen Keyboard Layout. ViVetool ID: 50692135 (CFR RKey: 1332671630)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1332671630]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New toggle Ask Copilot on in taskbar settings. ViVetool ID: 57739723 (CFR RKey: 2524716175)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2524716175]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New toggle Ask Copilot on in taskbar settings. ViVetool ID: 57941090 (CFR RKey: 3293976206)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3293976206]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Dark Mode dialog prereq. ViVetool ID: 58383338 (CFR RKey: 3587705487)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3587705487]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Dark Mode Run. ViVetool ID: 59270880 (CFR RKey: 3231968911)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3231968911]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Dark Mode Folder Options. ViVetool ID: 59203365 (CFR RKey: 1255272590)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1255272590]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Mobile Devices Settings Page. ViVetool ID: 56845155 (CFR RKey: 3332913294)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3332913294]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Privacy and Security Settings Page. ViVetool ID: 57118881 (CFR RKey: 1129197711)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1129197711]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Live Wallpaper. ViVetool ID: 57645315 (CFR RKey: 123478158)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\123478158]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Voice Typing Feature. ViVetool ID: 58970402 (CFR RKey: 1171126414)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1171126414]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Search Box Gleam. ViVetool ID: 57915467 (CFR RKey: 2535331982)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2535331982]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# To enable the default apps settings improvements. ViVetool ID: 56778684 (CFR RKey: 2026912399)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2026912399]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# To enable the default apps settings improvements. ViVetool ID: 56892083 (CFR RKey: 1717188239)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1717188239]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Find Apps under the share with using section. ViVetool ID: 55512263 (CFR RKey: 2390122639)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2390122639]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Microsoft Store app recommendations in the Open With app picker. ViVetool ID: 55805655 (CFR RKey: 2942457999)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2942457999]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Microsoft Store app recommendations in the Open With app picker. ViVetool ID: 41118774 (CFR RKey: 1823873164)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1823873164]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New File Explorer. ViVetool ID: 45130483 (CFR RKey: 3878395533)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3878395533]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New HDR options. ViVetool ID: 49793372 (CFR RKey: 3120369804)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3120369804]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New File Explorer Features in Windows 11. ViVetool ID: 49143212 (CFR RKey: 1507140749)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1507140749]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New File Explorer Features in Windows 11. ViVetool ID: 52081114 (CFR RKey: 3037514383)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3037514383]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New recommended and restore Quick Access in File Explorer for Windows 11. ViVetool ID: 51721485 (CFR RKey: 436524174)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\436524174]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New recommended and restore Quick Access in File Explorer for Windows 11. ViVetool ID: 48895801 (CFR RKey: 1916873356)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1916873356]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Taskbar Share from jumplist. ViVetool ID: 45738940 (CFR RKey: 2042203277)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2042203277]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Taskbar visual improvements. ViVetool ID: 56887328 (CFR RKey: 1082013326)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1082013326]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Windows Search Improvements. ViVetool ID: 54865932 (CFR RKey: 403600526)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\403600526]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Start menu mobile sidebar on Windows 11. ViVetool ID: 48697323 (CFR RKey: 3597742221)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3597742221]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Show hover cards for inactive and pinned taskbar apps. ViVetool ID: 48980211 (CFR RKey: 3870238861)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3870238861]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Snap Flyout Discoverability in line Message.  ViVetool ID: 53655156 (CFR RKey: 3909261966)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3909261966]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Snap Flyout Discoverability in line Message.  ViVetool ID: 53655173 (CFR RKey: 184720015)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\184720015]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# General IDs Needed (In New Windows 11 26H2 Features). ViVetool ID: 58989002 (CFR RKey: 2489185935)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2489185935]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Quick Settings (In New Windows 11 26H2 Features). ViVetool ID: 59956305 (CFR RKey: 2748832398)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2748832398]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Taskbar Thumbnails (In New Windows 11 26H2 Features). ViVetool ID: 60511437 (CFR RKey: 2596784271)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2596784271]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Context Menu in File Explorer (In New Windows 11 26H2 Features). ViVetool ID: 59764273 (CFR RKey: 1672732814)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1672732814]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Device Card in Settings Homepage (In New Windows 11 26H2 Features). ViVetool ID: 60772996 (CFR RKey: 147570831)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\147570831]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Point-in-time Restore (In New Windows 11 26H2 Features). ViVetool ID: 60394409 (CFR RKey: 1400491151)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1400491151]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Windows Subsystem for Linux Toggle (In New Windows 11 26H2 Features). ViVetool ID: 58182453 (CFR RKey: 1811419278)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1811419278]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Taskbar Share with Virtual Assistant (In New Windows 11 26H2 Features). ViVetool ID: 60063638 (CFR RKey: 747755151)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\747755151]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Dialog for Windows Protected Print Mode (In New Windows 11 26H2 Features). ViVetool ID: 57741219 (CFR RKey: 1181752463)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1181752463]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+## Pushed CFR flags
+# New Network Speed Test Button. ViVetool ID: 57703775 (CFR RKey: 3197378190)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3197378190]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Small Taskbar Buttons in Windows 11. ViVetool ID: 29785184 (CFR RKey: 3231150730)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3231150730]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Windows Settings get more mouse options from the old Control Panel dialog in accessibility settings. ViVetool ID: 54273186 (CFR RKey: 1143375503)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1143375503]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New AI Actions in File Explorer. ViVetool ID: 55345819 (CFR RKey: 929719951)
+# New AI Actions in File Explorer. ViVetool ID: 54792954 (CFR RKey: 4098520719)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4098520719]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Show time in Notification Center. ViVetool ID: 57159238 (CFR RKey: 2352098958)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2352098958]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Time in Notification Center in Windows 11. ViVetool ID: 42651849 (CFR RKey: 2479876749)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2479876749]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# To enable the AM/PM symbol option in region settings. ViVetool ID: 57413021 (CFR RKey: 980690575)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\980690575]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# To enable the new Advanced Settings on Windows 11. ViVetool ID: 56005157 (CFR RKey: 1263161998)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1263161998]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Compression Tool for Images in Windows Share. ViVetool ID: 55390938 (CFR RKey: 3020579983)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3020579983]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Copy, Open and Save Dialogs. ViVetool ID: 47274802 (CFR RKey: 1691966604)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1691966604]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Desktop Spotlight interface update. ViVetool ID: 57551469 (CFR RKey: 3661243022)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3661243022]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Emoji Panel in System Tray. ViVetool ID: 48504539 (CFR RKey: 3058906765)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3058906765]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Position of On-screen Indicators in Windows 11. ViVetool ID: 48103152 (CFR RKey: 3784524941)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3784524941]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Start Menu Jump Lists in Windows 11. ViVetool ID: 32222762 (CFR RKey: 1429416074)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1429416074]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# To get the copy current user settings toggles in language & region settings. ViVetool ID: 57160253 (CFR RKey: 2047487630)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2047487630]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Narrator feature discover ability dialog. ViVetool ID: 57237670 (CFR RKey: 1286483087)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1286483087]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Narrator feature discover ability dialog. ViVetool ID: 57345863 (CFR RKey: 2388666510)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2388666510]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Revamped Windows 11 Activation page. ViVetool ID: 42733866 (CFR RKey: 1414391436)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1414391436]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Revamped Windows 11 Activation page. ViVetool ID: 42739793 (CFR RKey: 2722096780)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2722096780]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Revamped Windows 11 Activation page. ViVetool ID: 42739800 (CFR RKey: 2956977804)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2956977804]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Revamped Windows 11 Activation page. ViVetool ID: 44357190 (CFR RKey: 2378413708)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2378413708]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Restore Tabs Feature. ViVetool ID: 54572881 (CFR RKey: 2734718606)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2734718606]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# The [Search permissions] and [Searching Windows] settings pages are being merged into a single [Search] settings page. ViVetool ID: 57471391 (CFR RKey: 1066149519)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1066149519]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Start Menu Share from the Recommended Section. ViVetool ID: 46493758 (CFR RKey: 2089776268)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2089776268]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# To enable the change to how taskmgr calculates CPU utilization (and the CPU utility column). ViVetool ID: 32145346 (CFR RKey: 2224106123)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2224106123]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# To enable the change to how taskmgr calculates CPU utilization (and the CPU utility column). ViVetool ID: 49753995 (CFR RKey: 372314253)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\372314253]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Top Cards in the About Section in the Settings App. ViVetool ID: 51784082 (CFR RKey: 607965839)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\607965839]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Top Cards in the About Section in the Settings App. ViVetool ID: 54618938 (CFR RKey: 1958247566)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1958247566]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Top Cards in the About Section in the Settings App. ViVetool ID: 54237977 (CFR RKey: 861440142)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\861440142]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Detach VHD button in Settings. ViVetool ID: 44560941 (CFR RKey: 1535881356)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1535881356]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# The old Fonts Control Panel will start being redirected to Settings > Personalization > Fonts soon. ViVetool ID: 48177092 (CFR RKey: 2287026317)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2287026317]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Wi-Fi Dialog. ViVetool ID: 40637063 (CFR RKey: 239740557)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\239740557]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Copilot Key. ViVetool ID: 50564196 (CFR RKey: 3380017294)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3380017294]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Profanity filter in voice typing. ViVetool ID: 33289874 (CFR RKey: 629344395)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\629344395]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# More feature IDs! To enable the rejuvenated rename your printer dialog. ViVetool ID: 55677794 (CFR RKey: 3309853838)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3309853838]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable All New Features from the Big Windows 11 24H2 April Update (KB5055627). ViVetool ID: 56659543 (CFR RKey: 2943499918)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2943499918]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# To enable the updated accessibility flyout with features grouped into vision/hearing/motor and mobility in the quick settings menu. ViVetool ID: 56887314 (CFR RKey: 612251278)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\612251278]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Voice Access toggle in quick settings. ViVetool ID: 56724497 (CFR RKey: 594951310)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\594951310]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+## Temporarily deprecated
+# Address regressions in Windows 11, version 24H2 related to application/game graphics presentation model overrides. ViVetool ID: 56625728 (CFR RKey: 2155495054)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2155495054]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Address regressions in Windows 11, version 24H2 related to application/game graphics presentation model overrides. ViVetool ID: 55182474 (CFR RKey: 342256271)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\342256271]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Administrator Protection Preview. ViVetool ID: 45172197 (CFR RKey: 3404045453)
+# New Administrator Protection Preview. ViVetool ID: 51406324 (CFR RKey: 3903118991)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3903118991]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Administrator Protection Preview. ViVetool ID: 46471475 (CFR RKey: 1717400716)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1717400716]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Administrator Protection Preview. ViVetool ID: 56508991 (CFR RKey: 2129281678)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2129281678]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Simplify toggle on New Start Menu. ViVetool ID: 47205210 (CFR RKey: 3036241548)
+# If CFR RKey: 3036241548 not working. ViVetool ID: 49221331 (CFR RKey: 2792562829)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2792562829]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Simplify toggle on New Start Menu. ViVetool ID: 47205210 (CFR RKey: 3036241548)
+# If CFR RKey: 3036241548 not working. ViVetool ID: 49381526 (CFR RKey: 762256525)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\762256525]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Simplify toggle on New Start Menu. ViVetool ID: 47205210 (CFR RKey: 3036241548)
+# If CFR RKey: 3036241548 not working. ViVetool ID: 49402389 (CFR RKey: 734731404)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\734731404]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Simplify toggle on New Start Menu. ViVetool ID: 47205210 (CFR RKey: 3036241548)
+# If CFR RKey: 3036241548 not working. ViVetool ID: 49820095 (CFR RKey: 2114784909)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2114784909]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Simplify toggle on New Start Menu. ViVetool ID: 47205210 (CFR RKey: 3036241548)
+# If CFR RKey: 3036241548 not working. ViVetool ID: 55495322 (CFR RKey: 905601679)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\905601679]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
