@@ -31,6 +31,11 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
+# New Screen Tint Feature. ViVetool ID: 60662124 (CFR RKey: 3643655310)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3643655310]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 # New shutdown/logout screen. ViVetool ID: 59728252 (CFR RKey: 4172144782)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4172144782]
 "EnabledState"=dword:00000002
