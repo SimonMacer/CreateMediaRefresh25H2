@@ -11,6 +11,11 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
+# Previously open apps reopen faster after a restart following updates, reducing disruption and enabling a quicker return to prior activity. ViVetool ID: 60958073 (CFR RKey: 4062558862)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4062558862]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 # New! Adds [Preview Anyway] button to preview pane in File Explorer for files downloaded from the internet after viewing warning. ViVetool ID: 500662691 (CFR RKey: 2512379022)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2512379022]
 "EnabledState"=dword:00000002
