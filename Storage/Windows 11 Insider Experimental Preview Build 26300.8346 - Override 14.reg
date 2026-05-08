@@ -5,6 +5,17 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
 
+## Build 26300.8346
+# Enable Low Latency Profile Feature. ViVetool ID: 60716524 (CFR RKey: 3632644751)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3632644751]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Low Latency Profile Feature. ViVetool ID: 61391826 (CFR RKey: 2783555215)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2783555215]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 ## Build 26300.8289
 # Replaces the spinning dots on the sign-in, shutdown, and restart screens with the modern animation used during boot. ViVetool ID: 59728252 (CFR RKey: 4172144782)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4172144782]
@@ -889,11 +900,6 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
-# KB5083807 Preview Update Gradual Rollout Features. ViVetool ID: 61391826 (CFR RKey: 2783555215)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2783555215]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
 # KB5083807 Preview Update Gradual Rollout Features. ViVetool ID: 61194578 (CFR RKey: 2783818894)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2783818894]
 "EnabledState"=dword:00000002
@@ -1191,11 +1197,6 @@ Windows Registry Editor Version 5.00
 
 # KB5083807 Preview Update Gradual Rollout Features. ViVetool ID: 59116012 (CFR RKey: 3632132751)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3632132751]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# KB5083807 Preview Update Gradual Rollout Features. ViVetool ID: 60716524 (CFR RKey: 3632644751)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3632644751]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
