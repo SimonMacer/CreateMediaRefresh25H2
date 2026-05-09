@@ -5,6 +5,43 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
 
+## Available flags
+# Improved Magnifier quick settings access. ViVetool ID: 61635110 (CFR RKey: 1285269134)
+# Magnifier now gives you more control over how you zoom. You can type an exact zoom percentage directly in the magnifier toolbar to land on precisely the level you need.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1285269134]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Pause updates on your schedule. ViVetool ID: 61410885 (CFR RKey: 2322836622)
+# Use a calendar to pause updates until a selected date. Extend the pause at any time to align with your schedule.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2322836622]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Windows Insider Program experience, including Advanced Options to choose version and Feature Platforms releases. ViVetool ID: 61157505 (CFR RKey: 34583695)
+# Updates the Windows Insider Program settings experience with clearer channel definitions and improved navigation. Provides more transparency into available preview features and simplifies build selection.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\34583695]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Faster reopening of restartable apps. ViVetool ID: 60958073 (CFR RKey: 4062558862)
+# Previously open apps reopen faster after a restart following updates, reducing disruption and enabling a quicker return to prior activity.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4062558862]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Touchpad Enhancements. ViVetool ID: 58429071 (CFR RKey: 527566991)
+# Add new gesture based functionality to touchpad in Settings, including scroll and zoom speed, automatic scrolling, accelerated scrolling, and single-finger scrolling.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\527566991]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Free upgrade path to Windows 11 Pro Education for K-12. ViVetool ID: 52298135 (CFR RKey: 778879631)
+# Windows Insiders in K–12 education environments can now experience a seamless upgrade path from Windows 11 Home to Windows 11 Pro Education edition—at no additional cost. Please note: This upgrade is one-way only. Reverting to Windows Home is not supported without a clean OS reinstall.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\778879631]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 ## Build 26300.8346
 # Enable Low Latency Profile Feature. ViVetool ID: 60716524 (CFR RKey: 3632644751)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3632644751]
@@ -54,16 +91,6 @@ Windows Registry Editor Version 5.00
 "EnabledStateOptions"=dword:00000000
 
 ## Build 26220.8170
-# Enables the new Experimental and Beta channel settings, including Advanced Options to choose version and Feature Platforms releases. ViVetool ID: 61157505 (CFR RKey: 34583695)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\34583695]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# Enables new calendar controls to pause updates for longer. ViVetool ID: 61410885 (CFR RKey: 2322836622)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2322836622]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
 # Enables FAT32 formatting support up to 2TB when using the command-line tool. ViVetool ID: 60772592 (CFR RKey: 3771711631)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3771711631]
 "EnabledState"=dword:00000002
