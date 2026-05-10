@@ -1,0 +1,45 @@
+﻿Windows Registry Editor Version 5.00
+
+# 停用 Google Chrome Gemini Nano AI 功能。
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome]
+# 網址列和新分頁搜尋框的 Google AI 模式整合設定。
+# 0 = 允許 AI 模式整合。
+# 1 = 不允許 AI 模式整合。
+"AIModeSettings"=dword:00000001
+# 強化版自動填入功能設定。
+# 0 = 允許使用這項功能，並允許 Google 運用相關資料改善 AI 模型。
+# 1 = 允許使用這項功能，但不允許 Google 運用使用者的內容 (包括提示詞、輸入內容、輸出內容、來源資料和文字意見回饋) 改善模型。
+# 2 = 不允許使用這項功能。
+"AutofillPredictionSettings"=dword:00000002
+# 「使用 AI 建立主題」設定。
+# 0 = 允許使用這項功能，並允許 Google 運用相關資料改善 AI 模型。
+# 1 = 允許使用這項功能，但不允許 Google 運用使用者的內容 (包括提示詞、輸入內容、輸出內容、來源資料和文字意見回饋) 改善模型。
+# 2 = 不允許使用這項功能。
+"CreateThemesSettings"=dword:00000002
+# Chrome DevTools生成式 AI 功能設定。
+# 0 = 允許使用這項功能，並允許 Google 運用相關資料改善 AI 模型。
+# 1 = 允許使用這項功能，但不允許 Google 運用使用者的內容 (包括提示詞、輸入內容、輸出內容、來源資料和文字意見回饋) 改善模型。
+# 2 = 不允許使用這項功能。
+"DevToolsGenAiSettings"=dword:00000002
+# 允許 Gemini 應用程式整合功能直接在指定網站執行動作。
+# 0/未設定 = 允許 Gemini 應用程式在網頁執行動作。
+# 1 = 禁止 Gemini 應用程式在網頁執行動作。
+"GeminiActOnWebSettings"=dword:00000001
+# Gemini 整合設定。
+# 0/未設定 = 使用者可以運用 Gemini 整合。
+# 1 = 使用者無法運用 Gemini 整合。
+"GeminiSettings"=dword:00000001
+# 本機基礎模型生成式 AI 設定。
+# 如果將這項政策設為允許 (0) 或不設定，系統會自動下載模型並用於推論。
+# 如果將這項政策設為停用 (1)，系統就不會下載模型，並會刪除現有模型 (如果已下載)。
+"GenAILocalFoundationalModelSettings"=dword:00000001
+# 「幫我寫」設定。
+# 0 = 允許使用這項功能，並允許 Google 運用相關資料改善 AI 模型。
+# 1 = 允許使用這項功能，但不允許 Google 運用使用者的內容 (包括提示詞、輸入內容、輸出內容、來源資料和文字意見回饋) 改善模型。
+# 2 = 不允許使用這項功能。
+"HelpMeWriteSettings"=dword:00000002
+# AI 輔助歷史記錄搜尋功能設定。
+# 0 = 允許使用這項功能，並允許 Google 運用相關資料改善 AI 模型。
+# 1 = 允許使用這項功能，但不允許 Google 運用使用者的內容 (包括提示詞、輸入內容、輸出內容、來源資料和文字意見回饋) 改善模型。
+# 2 = 不允許使用這項功能。
+"HistorySearchSettings"=dword:00000002
