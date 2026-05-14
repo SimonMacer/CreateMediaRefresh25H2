@@ -411,12 +411,12 @@ Windows Registry Editor Version 5.00
 
 # Enable New About settings page. ViVetool ID: 59265307 (CFR RKey: 919465614)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\919465614]
-"EnabledState"=dword:00000001
+"EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
 # Enable New device card in Settings Home. ViVetool ID: 53343270 (CFR RKey: 1300669582)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1300669582]
-"EnabledState"=dword:00000001
+"EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
 # Simplify toggle on New Start Menu. ViVetool ID: 47205210 (CFR RKey: 3036241548)
