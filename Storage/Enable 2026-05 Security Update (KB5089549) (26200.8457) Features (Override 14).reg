@@ -5,6 +5,27 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
 
+## 2026-05 Security Update (KB5089549) (26200.8457)
+# KB5089549 Security Update Gradual Rollout Features. ViVetool ID: 54794917 (CFR RKey: 1247442575)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1247442575]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5089549 Security Update Gradual Rollout Features. ViVetool ID: 52086568 (CFR RKey: 1373686414)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1373686414]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5089549 Security Update Gradual Rollout Features. ViVetool ID: 56135360 (CFR RKey: 2171752079)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2171752079]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5089549 Security Update Gradual Rollout Features. ViVetool ID: 58274572 (CFR RKey: 403180686)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\403180686]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 ## 2026-04 Preview Update (KB5083631) (26200.8313)
 # 2026-04 Preview Update (KB5083631) (26200.8313) Main Feature Bundle. ViVetool ID: 58989070 (CFR RKey: 475788942)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\475788942]
