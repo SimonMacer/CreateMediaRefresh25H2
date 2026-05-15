@@ -42,6 +42,24 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
+# Fluid Dictation Language Expansion in Voice Typing. ViVetool ID: 60901381 (CFR RKey: 184532110)
+# Uses Windows Voice Typing fluid dictation in Spanish & French to automatically correct grammar, punctuation, and filler words as you speak.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\184532110]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Fluid Dictation Language Expansion in Voice Access. ViVetool ID: 59887882 (CFR RKey: 365812878)
+# Uses Windows Voice Access fluid dictation in Spanish & French to automatically correct grammar, punctuation, and filler words as you speak.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\365812878]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Consistent solid (donut) spinners across key Windows scenarios. ViVetool ID: 59728252 (CFR RKey: 4172144782)
+# Introduces a unified solid (donut) spinner with matching status text across key Windows experiences like boot, sign-in, restart, shutdown, and updates.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4172144782]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 ## Build 26300.8346
 # Enable Low Latency Profile Feature. ViVetool ID: 60716524 (CFR RKey: 3632644751)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3632644751]
@@ -54,11 +72,6 @@ Windows Registry Editor Version 5.00
 "EnabledStateOptions"=dword:00000000
 
 ## Build 26300.8289
-# Replaces the spinning dots on the sign-in, shutdown, and restart screens with the modern animation used during boot. ViVetool ID: 59728252 (CFR RKey: 4172144782)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4172144782]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
 # New [Available updates] section/experience in Settings. ViVetool ID: 60897831 (CFR RKey: 1310440590)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1310440590]
 "EnabledState"=dword:00000002
