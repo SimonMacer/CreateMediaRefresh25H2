@@ -60,6 +60,17 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
+## Build 26300.8493
+# Enable Movable Taskbar Features. ViVetool ID: 59213768 (CFR RKey: 2439114895)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2439114895]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enable Small Taskbar Features. ViVetool ID: 61090762 (CFR RKey: 2486810255)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2486810255]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 ## Build 26300.8346
 # Enable Low Latency Profile Feature. ViVetool ID: 60716524 (CFR RKey: 3632644751)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3632644751]
@@ -515,11 +526,6 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
-# KB5089499 Preview Update Gradual Rollout Features. ViVetool ID: 59213768 (CFR RKey: 2439114895)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2439114895]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
 # KB5089499 Preview Update Gradual Rollout Features. ViVetool ID: 60945864 (CFR RKey: 2441460879)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2441460879]
 "EnabledState"=dword:00000002
@@ -537,11 +543,6 @@ Windows Registry Editor Version 5.00
 
 # KB5089499 Preview Update Gradual Rollout Features. ViVetool ID: 60436170 (CFR RKey: 2486422159)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2486422159]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# KB5089499 Preview Update Gradual Rollout Features. ViVetool ID: 61090762 (CFR RKey: 2486810255)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2486810255]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
