@@ -5,6 +5,12 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
 
+## Option flags
+# Enable Microsoft Windows K2 Initiative Features. ViVetool ID: 60878308 (CFR RKey: 3384131215)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3384131215]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 ## Available flags
 # Improved Magnifier quick settings access. ViVetool ID: 61635110 (CFR RKey: 1285269134)
 # Magnifier now gives you more control over how you zoom. You can type an exact zoom percentage directly in the magnifier toolbar to land on precisely the level you need.
