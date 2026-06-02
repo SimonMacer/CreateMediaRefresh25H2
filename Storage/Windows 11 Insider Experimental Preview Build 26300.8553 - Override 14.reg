@@ -11,6 +11,11 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
+# Fixed White Flash On File Open and Save Dialog. ViVetool ID: 61372722 (CFR RKey: 1688055438)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1688055438]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 ## Available flags
 # Show Braille settings by default. ViVetool ID: 61795378 (CFR RKey: 1706533518)
 # Braille settings are now always visible since HID protocol support is baked into windows and is planned on being shipped inbox.
