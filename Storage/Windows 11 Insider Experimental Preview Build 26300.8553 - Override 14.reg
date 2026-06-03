@@ -16,6 +16,31 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
+# New AI Components Uninstall Option. ViVetool ID: 53884481 (CFR RKey: 2181206670)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2181206670]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New AI Components Uninstall Option. ViVetool ID: 60828813 (CFR RKey: 439860879)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\439860879]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New AI Components Uninstall Option. ViVetool ID: 49325440 (CFR RKey: 19209869)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\19209869]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New AI Components Uninstall Option. ViVetool ID: 57953575 (CFR RKey: 1324619406)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1324619406]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New AI Components Uninstall Option. ViVetool ID: 59805538 (CFR RKey: 3312574094)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3312574094]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 ## Available flags
 # Show Braille settings by default. ViVetool ID: 61795378 (CFR RKey: 1706533518)
 # Braille settings are now always visible since HID protocol support is baked into windows and is planned on being shipped inbox.
@@ -506,11 +531,6 @@ Windows Registry Editor Version 5.00
 
 # KB5089569 Preview Update Gradual Rollout Features. ViVetool ID: 61591052 (CFR RKey: 435398798)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\435398798]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# KB5089569 Preview Update Gradual Rollout Features. ViVetool ID: 60828813 (CFR RKey: 439860879)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\439860879]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
@@ -1954,11 +1974,6 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
-# KB5083807 Preview Update Gradual Rollout Features. ViVetool ID: 57953575 (CFR RKey: 1324619406)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1324619406]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
 # KB5083807 Preview Update Gradual Rollout Features. ViVetool ID: 55111207 (CFR RKey: 1337093774)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1337093774]
 "EnabledState"=dword:00000002
@@ -2681,11 +2696,6 @@ Windows Registry Editor Version 5.00
 
 # KB5083807 Preview Update Gradual Rollout Features. ViVetool ID: 61056610 (CFR RKey: 3307452558)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3307452558]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# KB5083807 Preview Update Gradual Rollout Features. ViVetool ID: 59805538 (CFR RKey: 3312574094)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3312574094]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
