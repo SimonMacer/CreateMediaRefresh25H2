@@ -10,6 +10,21 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
+# KB5094126 Security Update Gradual Rollout Features. ViVetool ID: 60846630 (CFR RKey: 1284226702)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1284226702]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5094126 Security Update Gradual Rollout Features. ViVetool ID: 60695538 (CFR RKey: 3827942031)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3827942031]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5094126 Security Update Gradual Rollout Features. ViVetool ID: 60862732 (CFR RKey: 420331150)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\420331150]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 # KB5089573 Preview Update Gradual Rollout Features. ViVetool ID: 55090619 (CFR RKey: 2002022031)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2002022031]
 "EnabledState"=dword:00000002
