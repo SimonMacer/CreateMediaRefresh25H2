@@ -5,6 +5,32 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
 
+## 2026-08
+# An Option to Open Apps Maximised by Default. ViVetool ID: 62915050 (CFR RKey: 3563945615)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3563945615]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Get access to new entry points on the Settings Home and Accounts pages help you set up Camera Roll Backup and automatically back up photos and videos from your mobile device to OneDrive. ViVetool ID: 62068874 (CFR RKey: 341809295)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\341809295]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# A faster, cleaner context menu that you can customize to fit your workflow and preferences. ViVetool ID: 60813048 (CFR RKey: 4055089295)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4055089295]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Get access to Magnifier's toolbar updated icons and refined spacing and padding. ViVetool ID: 63194003 (CFR RKey: 652834447)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\652834447]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New AutoPlay Dialog. ViVetool ID: 62141177 (CFR RKey: 4060845711)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4060845711]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 ## Option flags
 # Enable Microsoft Windows K2 Initiative Features. ViVetool ID: 60878308 (CFR RKey: 3384131215)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3384131215]
