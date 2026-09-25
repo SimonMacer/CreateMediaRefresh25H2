@@ -5,6 +5,16 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
 
+# Prerequisites Insider Experimental Features. ViVetool ID: 48433719 (CFR RKey: 1853569164)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1853569164]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Prerequisites Insider Experimental Features. ViVetool ID: 49453572 (CFR RKey: 156965516)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\156965516]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 # Enable Dark Mode for Run and Folder Options. ViVetool ID: 58383338 (CFR RKey: 3587705487)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3587705487]
 "EnabledState"=dword:00000002
