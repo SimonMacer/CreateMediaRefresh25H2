@@ -30,23 +30,11 @@ Windows Registry Editor Version 5.00
 # Fixed some devices might be unable to turn on Smart App Control in the Windows Security app if it has been turned off.
 # ViVetool ID: 41540309 (CFR RKey: 2883193997)
 # ViVetool ID: 56083284 (CFR RKey: 2850574478)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
-
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2883193997]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2850574478]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15]
-
-[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2883193997]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2850574478]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
