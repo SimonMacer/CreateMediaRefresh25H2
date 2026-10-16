@@ -5,6 +5,81 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
 
+# Deprecated
+# New Drag Tray File-Sharing Flyout features. ViVetool ID: 45624564 (CFR RKey: 3895955085)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3895955085]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Drag Tray Improvements. ViVetool ID: 56631583 (CFR RKey: 1043086990)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1043086990]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Drag Tray Improvements. ViVetool ID: 56632969 (CFR RKey: 304234127)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\304234127]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Drag Tray Improvements. ViVetool ID: 58542295 (CFR RKey: 2935882895)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2935882895]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+## 2026-10 Security Update (KB5127648) (26300.9711)
+# Fixed some devices might be unable to turn on Smart App Control in the Windows Security app if it has been turned off.
+# ViVetool ID: 41540309 (CFR RKey: 2883193997)
+# ViVetool ID: 56083284 (CFR RKey: 2850574478)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2883193997]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2850574478]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15]
+
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2883193997]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\OFFLINE\ControlSet001\Control\FeatureManagement\Overrides\15\2850574478]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enables Emoji 17.0. ViVetool ID: 61384404 (CFR RKey: 2837687951)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2837687951]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enables [Open apps maximized] feature on the Visual effects page. ViVetool ID: 62915050 (CFR RKey: 3563945615)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3563945615]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5127648 Security Update Gradual Rollout Features. ViVetool ID: 63657919 (CFR RKey: 2126604431)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2126604431]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5127648 Security Update Gradual Rollout Features. ViVetool ID: 61284073 (CFR RKey: 3528700047)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3528700047]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5127648 Security Update Gradual Rollout Features. ViVetool ID: 57467795 (CFR RKey: 665331343)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\665331343]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5127648 Security Update Gradual Rollout Features. ViVetool ID: 61258009 (CFR RKey: 857584270)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\857584270]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 ## 2026-09 Preview Update (KB5124010) (26300.9550)
 # September 2026 Update Feature Bundle. ViVetool ID: 61161268 (CFR RKey: 1745990798)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1745990798]
@@ -691,6 +766,11 @@ Windows Registry Editor Version 5.00
 
 # New Start menu customization. ViVetool ID: 61596619 (CFR RKey: 2544478351)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2544478351]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Replaces the spinning dots on the sign-in, shutdown, and restart screens with the modern animation used during boot. ViVetool ID: 59728252 (CFR RKey: 4172144782)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4172144782]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
@@ -1980,26 +2060,6 @@ Windows Registry Editor Version 5.00
 
 # Enable New Recommended Files Section in File Explorer. ViVetool ID: 48895801 (CFR RKey: 1916873356)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1916873356]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Drag Tray File-Sharing Flyout features. ViVetool ID: 45624564 (CFR RKey: 3895955085)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3895955085]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Drag Tray Improvements. ViVetool ID: 56631583 (CFR RKey: 1043086990)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1043086990]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Drag Tray Improvements. ViVetool ID: 56632969 (CFR RKey: 304234127)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\304234127]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# New Drag Tray Improvements. ViVetool ID: 58542295 (CFR RKey: 2935882895)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2935882895]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
