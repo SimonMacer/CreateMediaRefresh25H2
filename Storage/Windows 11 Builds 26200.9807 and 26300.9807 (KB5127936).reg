@@ -31,6 +31,22 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
+# Temporary Files storage settings page is getting modernised. ViVetool ID: 61456288 (CFR RKey: 1091677327)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1091677327]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Modernized AutoPlay Experience] ViVetool ID: 62141177 (CFR RKey: 4060845711)
+# Description: You may utilize the AutoPlay dialog to choose the preferred experience when devices are connected to your PC. 
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4060845711]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Start Menu Phone Hover. ViVetool ID: 60682493 (CFR RKey: 4220503183)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4220503183]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 # Dark mode for Folder Options. ViVetool ID: 59203365 (CFR RKey: 1255272590)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1255272590]
 "EnabledState"=dword:00000002
