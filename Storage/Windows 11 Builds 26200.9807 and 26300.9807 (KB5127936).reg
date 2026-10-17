@@ -5,6 +5,11 @@ Windows Registry Editor Version 5.00
 # You will need to open CMD as administrator. Type the following command in CMD to Undo:
 # REG DELETE "HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14" /f
 
+# Windows 11 October 2026 Update (KB5127936) Prerequisites to run the new features. ViVetool ID: 61161283 (CFR RKey: 2249307278)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2249307278]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 # Name: [Improved Context Menu] ViVetool ID: 60813048 (CFR RKey: 4055089295)
 # Description: A faster, cleaner context menu that you can customize to fit your workflow and preferences. 
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4055089295]
