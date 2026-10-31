@@ -1,9 +1,9 @@
 Windows Registry Editor Version 5.00
-
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
 # Undo - Delete HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14 Registry Key and restore default values.
 # You will need to open CMD as administrator. Type the following command in CMD to Undo:
 # REG DELETE "HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14" /f
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
 
 # Windows 11 October 2026 Update (KB5127936) Prerequisites to run the new features. ViVetool ID: 61161283 (CFR RKey: 2249307278)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2249307278]
