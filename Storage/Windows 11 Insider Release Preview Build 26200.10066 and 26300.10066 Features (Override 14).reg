@@ -1,0 +1,216 @@
+Windows Registry Editor Version 5.00
+# Undo - Delete HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14 Registry Key and restore default values.
+# You will need to open CMD as administrator. Type the following command in CMD to Undo:
+# REG DELETE "HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14" /f
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
+
+# Windows 11 December 2026 Update (KB5132057) Prerequisites to run the new features. ViVetool ID: 61161304 (CFR RKey: 2953950350)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2953950350]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Turns on the new Magnifier keyboard shortcut setting. ViVetool ID: 63919219 (CFR RKey: 3871826062)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3871826062]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Modern Run Dialog. ViVetool ID: 57156807 (CFR RKey: 2384866959)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2384866959]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Modern Run Dialog. ViVetool ID: 57259990 (CFR RKey: 2902469775)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2902469775]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Modern Run Dialog. ViVetool ID: 58381341 (CFR RKey: 1002834574)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1002834574]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Modern Run Dialog. ViVetool ID: 58527096 (CFR RKey: 4034135182)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4034135182]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 63349022 (CFR RKey: 1026388622)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1026388622]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 61392928 (CFR RKey: 1107275406)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1107275406]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 61052451 (CFR RKey: 1195620494)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1195620494]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 62819459 (CFR RKey: 125272719)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\125272719]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 61501351 (CFR RKey: 1320266383)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1320266383]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 60412843 (CFR RKey: 1472842895)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1472842895]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 62781828 (CFR RKey: 161318031)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\161318031]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 63007284 (CFR RKey: 1757117582)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1757117582]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 61534004 (CFR RKey: 1773251214)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1773251214]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 33875767 (CFR RKey: 1872819852)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1872819852]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 61807802 (CFR RKey: 1951899791)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1951899791]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 61508926 (CFR RKey: 2104863374)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2104863374]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 61831103 (CFR RKey: 2122424463)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2122424463]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 61534015 (CFR RKey: 2142349966)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2142349966]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 62446788 (CFR RKey: 2312605327)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2312605327]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 61049675 (CFR RKey: 2541336718)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2541336718]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 63380104 (CFR RKey: 274428047)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\274428047]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 50565209 (CFR RKey: 3008297102)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3008297102]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 62862558 (CFR RKey: 3154608271)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3154608271]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 62378591 (CFR RKey: 3217789070)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3217789070]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 62039392 (CFR RKey: 3240467086)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3240467086]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 58797537 (CFR RKey: 3258317967)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3258317967]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 62340835 (CFR RKey: 3323170959)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3323170959]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 62090852 (CFR RKey: 3367213198)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3367213198]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 50564196 (CFR RKey: 3380017294)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3380017294]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 61202788 (CFR RKey: 3383604366)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3383604366]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 61709799 (CFR RKey: 3478496399)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3478496399]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 61138026 (CFR RKey: 3584538254)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3584538254]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 60778862 (CFR RKey: 3703423118)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3703423118]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 61632625 (CFR RKey: 3801065102)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3801065102]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 51406324 (CFR RKey: 3903118991)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3903118991]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 61473141 (CFR RKey: 3933055630)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3933055630]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 63673616 (CFR RKey: 558196878)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\558196878]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 61614978 (CFR RKey: 70887055)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\70887055]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 61084162 (CFR RKey: 72070798)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\72070798]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 63192989 (CFR RKey: 974222991)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\974222991]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
