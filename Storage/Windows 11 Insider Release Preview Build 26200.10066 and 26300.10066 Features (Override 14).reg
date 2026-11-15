@@ -35,6 +35,11 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
+# New File Explorer Index Search in This PC. ViVetool ID: 61188158 (CFR RKey: 2101326990)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2101326990]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 # KB5132057 Preview Update Gradual Rollout Features. ViVetool ID: 63349022 (CFR RKey: 1026388622)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1026388622]
 "EnabledState"=dword:00000002
