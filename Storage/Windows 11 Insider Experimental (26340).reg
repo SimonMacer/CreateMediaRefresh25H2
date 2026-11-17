@@ -155,3 +155,13 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3090500238]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
+
+# Check for App Updates via Windows Update in Windows 11. ViVetool ID: 62811370 (CFR RKey: 3568796303)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3568796303]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Check for App Updates via Windows Update in Windows 11. ViVetool ID: 63649859 (CFR RKey: 2250205326)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2250205326]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
