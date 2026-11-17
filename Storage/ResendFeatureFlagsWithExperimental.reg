@@ -1,0 +1,413 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\1028757647]
+"_version"="2026-10-23T16:20:45.1131640Z"
+"featureFlagId"="51ad1ae43ef84c839f12c771798e27b3"
+"payloadKey"="WINFLAGS_62103454_51AD1AE43EF84C839F12C771798E27B3"
+"Description"="Try the new Mobile devices experience in Quick Settings for quick access to your connected phone’s status and controls."
+"winFlagsSchema"="0"
+"winFlagsId"="PX:03B39F9E"
+"Name"="Quick Settings Phone Controls"
+"PreviewFlagEligible"="true"
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\1028757647\3D51988F001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\1028757647\3D51988F002]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\1167176334]
+"featureFlagId"="67ecda0f45b04b9d997289125ddfa66c"
+"_version"="2026-11-06T17:45:11.3199225Z"
+"isGroupPrimary"="true"
+"payloadKey"="WINFLAGS_61275938_67ECDA0F45B04B9D997289125DDFA66C"
+"Description"="Your PIN is available while Face or Fingerprint keeps working, and whichever finishes first signs you in. In some cases, such as after a restart, your PIN is required first."
+"winFlagsSchema"="1"
+"winFlagsId"="PX:03A6FF22"
+"Name"="Coordinating Windows Hello Gestures"
+"groupId"="n:889a47c5-75e1-4059-a689-e2bb53dd7c44"
+"PreviewFlagEligible"="true"
+"DisabledAncestors"=""
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\1167176334\4591B28E001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\1167176334\4591B28E002]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\2101326990]
+"_version"="2026-10-16T05:52:40.7380341Z"
+"featureFlagId"="a4e5f4133932463b988809ae023155e2"
+"payloadKey"="WINFLAGS_61188158_A4E5F4133932463B988809AE023155E2"
+"Description"="Enables indexer based Search in File Explorer on this pc, making it much faster and consistent with search from File Explorer Home."
+"winFlagsSchema"="0"
+"winFlagsId"="PX:03A5A83E"
+"Name"="Indexer Search File Explorer This PC"
+"PreviewFlagEligible"="true"
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\2101326990\7D3FB48E001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\2101326990\7D3FB48E002]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\2196866703]
+"_version"="2026-10-07T18:07:16.8408818Z"
+"featureFlagId"="10702b8e0f6942f28f156716d20df725"
+"payloadKey"="WINFLAGS_62672833_10702B8E0F6942F28F156716D20DF725"
+"Description"="Continue webpages from your phone on your PC more easily by opening them in your default browser or installing the originating mobile browser."
+"winFlagsSchema"="0"
+"winFlagsId"="PX:03BC4FC1"
+"Name"="Cross Device Resume Improvement"
+"PreviewFlagEligible"="true"
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\2196866703\82F1868F001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\2196866703\82F1868F002]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\2405458062]
+"_version"="2026-09-25T16:24:27.6922332Z"
+"featureFlagId"="c6cf2853498644458a124a2f9ff19f27"
+"payloadKey"="WINFLAGS_55543623_C6CF2853498644458A124A2F9FF19F27"
+"Description"="Enable the phone companion for the Start menu which now shows more of your recent activity, with a scrollable side pane so you can view even more without leaving the Start menu."
+"winFlagsSchema"="0"
+"winFlagsId"="PX:034F8747"
+"Name"="Phone companion for the Start menu"
+"PreviewFlagEligible"="true"
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\2405458062\8F60608E001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\2405458062\8F60608E002]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\2849476751]
+"_version"="2026-11-06T17:25:10.7822818Z"
+"featureFlagId"="ee43c7d7ceb14cd49e6d2350931b2967"
+"payloadKey"="WINFLAGS_62381268_EE43C7D7CEB14CD49E6D2350931B2967"
+"Description"="If you don't use the Sticky Key or Filter Key keyboard features, you can choose not to be asked again directly from the dialog, helping you continue what you are doing with fewer interruptions."
+"winFlagsSchema"="0"
+"winFlagsId"="PX:03B7DCD4"
+"Name"="Turn off keyboard shortcuts"
+"PreviewFlagEligible"="true"
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\2849476751\A9D7908F001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\2849476751\A9D7908F002]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\288720014]
+"_version"="2026-08-13T19:25:26.6514814Z"
+"featureFlagId"="1da175aadd974fcc90b21f9b2b96ff0b"
+"payloadKey"="WINFLAGS_62762248_1DA175AADD974FCC90B21F9B2B96FF0B"
+"Description"="Gives Windows Search a cleaner, calmer look with a simpler search home, clearer labels showing each result's source (app, file, setting, or web), and more consistent previews so you can find what you need at a glance."
+"winFlagsSchema"="0"
+"winFlagsId"="PX:03BDAD08"
+"Name"="Refined Windows Search"
+"PreviewFlagEligible"="true"
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\288720014\1135848E001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\288720014\1135848E002]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\3234575502]
+"featureFlagId"="8b8300d78809492db98a0d27dc905242"
+"_version"="2026-09-08T21:52:58.3012004Z"
+"isGroupPrimary"="true"
+"payloadKey"="WINFLAGS_61166176_8B8300D78809492DB98A0D27DC905242"
+"Description"="Drop target, Drag preview and AutoDest hang"
+"winFlagsSchema"="1"
+"winFlagsId"="PX:03A55260"
+"Name"="Drag and Drop bundle fixes"
+"groupId"="n:e26e3772-d621-43fb-b705-b5fb9c80ea90"
+"PreviewFlagEligible"="true"
+"DisabledAncestors"=""
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\3234575502\C0CBB48E001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\3234575502\C0CBB48E002]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\3368916622]
+"_version"="2026-10-23T16:38:28.7460183Z"
+"featureFlagId"="28f658339b2f449b9fbe394a64e31b8d"
+"payloadKey"="WINFLAGS_62148964_28F658339B2F449B9FBE394A64E31B8D"
+"Description"="Check the performance of your internet connection in Windows Quick Settings with an internet speed test."
+"winFlagsSchema"="0"
+"winFlagsId"="PX:03B45164"
+"Name"="Quick Settings Speed Test"
+"PreviewFlagEligible"="true"
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\3368916622\C8CD968E001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\3368916622\C8CD968E002]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\341809295]
+"_version"="2026-08-17T20:59:07.5700586Z"
+"featureFlagId"="59511a39c5af49cabf522c1a8a7a2eca"
+"payloadKey"="WINFLAGS_62068874_59511A39C5AF49CABF522C1A8A7A2ECA"
+"Description"="Get access to new entry points on the Settings Home and Accounts pages help you set up Camera Roll Backup and automatically back up photos and videos from your mobile device to OneDrive."
+"winFlagsSchema"="0"
+"winFlagsId"="PX:03B3188A"
+"Name"="Camera Roll Backup"
+"PreviewFlagEligible"="true"
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\341809295\145F988F001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\341809295\145F988F002]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\3539182222]
+"_version"="2026-09-01T17:25:03.4873294Z"
+"featureFlagId"="21a845afbbf94a659a6c2a1dadc145f9"
+"payloadKey"="WINFLAGS_61754985_21A845AFBBF94A659A6C2A1DADC145F9"
+"Description"="Enables the updated Start menu customization experiences including enhanced controls for personalizing layout, recommendations, and content visibility."
+"winFlagsSchema"="0"
+"winFlagsId"="PX:03AE4E69"
+"Name"="Enhanced start menu customization"
+"PreviewFlagEligible"="true"
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\3539182222\D2F3A28E001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\3539182222\D2F3A28E002]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\3553732751]
+"_version"="2026-11-06T17:16:23.7916065Z"
+"featureFlagId"="576ea28b57674ed99dfe21b7d72d9cbc"
+"payloadKey"="WINFLAGS_61595625_576EA28B57674ED99DFE21B7D72D9CBC"
+"Description"="Discover the benefits and services available with your Microsoft account, right in Windows Settings."
+"winFlagsSchema"="0"
+"winFlagsId"="PX:03ABDFE9"
+"Name"="Account Benefits in Settings"
+"PreviewFlagEligible"="true"
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\3553732751\D3D1A88F001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\3553732751\D3D1A88F002]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\3556080270]
+"_version"="2026-11-16T21:33:34.3250246Z"
+"featureFlagId"="ad63465222914c1c809613e1d45d3742"
+"payloadKey"="WINFLAGS_63098217_AD63465222914C1C809613E1D45D3742"
+"Description"="View and remove individual passkeys on a supported security key without resetting the entire key. Administrators can also configure security-key policies."
+"winFlagsSchema"="0"
+"winFlagsId"="PX:03C2CD69"
+"Name"="Advanced security key management"
+"PreviewFlagEligible"="true"
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\3556080270\D3F57A8E001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\3556080270\D3F57A8E002]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\3694749838]
+"featureFlagId"="b3358707af404dffbfa623e4111b8caa"
+"_version"="2026-11-06T17:45:14.2159829Z"
+"isGroupPrimary"="false"
+"payloadKey"="WINFLAGS_63646574_B3358707AF404DFFBFA623E4111B8CAA"
+"Description"="Your PIN is available while Face or Fingerprint keeps working, and whichever finishes first signs you in. In some cases, such as after a restart, your PIN is required first."
+"winFlagsSchema"="1"
+"winFlagsId"="PX:03CB2B6E"
+"Name"="Coordinating Windows Hello Gestures"
+"groupId"="n:889a47c5-75e1-4059-a689-e2bb53dd7c44"
+"PreviewFlagEligible"="true"
+"DisabledAncestors"="61275938"
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\3694749838\DC39688E001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\3694749838\DC39688E002]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\4055089295]
+"_version"="2026-10-19T18:41:17.7087861Z"
+"featureFlagId"="a8f45478b30047fbb3f6fc55fd1b4d81"
+"payloadKey"="WINFLAGS_60813048_A8F45478B30047FBB3F6FC55FD1B4D81"
+"Description"="A faster, cleaner context menu that you can customize to fit your workflow and preferences"
+"winFlagsSchema"="0"
+"winFlagsId"="PX:039FEEF8"
+"Name"="Improved Context Menu"
+"PreviewFlagEligible"="true"
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\4055089295\F1B3C08F001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\4055089295\F1B3C08F002]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\4060845711]
+"_version"="2026-08-21T16:09:17.0470405Z"
+"featureFlagId"="6317f525ba8646d2aa82c97450621ac5"
+"payloadKey"="WINFLAGS_62141177_6317F525BA8646D2AA82C97450621AC5"
+"Description"="You may utilize the AutoPlay dialog to choose the preferred experience when devices are connected to your PC. "
+"winFlagsSchema"="0"
+"winFlagsId"="PX:03B432F9"
+"Name"="Modernized AutoPlay Experience"
+"PreviewFlagEligible"="true"
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\4060845711\F20B968F001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\4060845711\F20B968F002]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\407615118]
+"featureFlagId"="62dd537ccfda4cf8b8e4cd21745ffe82"
+"_version"="2026-09-08T21:53:01.1605950Z"
+"isGroupPrimary"="false"
+"payloadKey"="WINFLAGS_61084172_62DD537CCFDA4CF8B8E4CD21745FFE82"
+"Description"="Drop target, Drag preview and AutoDest hang"
+"winFlagsSchema"="1"
+"winFlagsId"="PX:03A4120C"
+"Name"="Drag and Drop bundle fixes"
+"groupId"="n:e26e3772-d621-43fb-b705-b5fb9c80ea90"
+"PreviewFlagEligible"="true"
+"DisabledAncestors"=""
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\407615118\184BB68E001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\407615118\184BB68E002]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\543648398]
+"_version"="2026-10-30T16:14:23.2768631Z"
+"featureFlagId"="665506d96d6245d09b675fd82183fc9b"
+"payloadKey"="WINFLAGS_63570960_665506D96D6245D09B675FD82183FC9B"
+"Description"="If your Microsoft 365 Family or Premium subscription was purchased after October 8, 2026, view your shared cloud storage usage in Settings > Accounts > Cloud storage. This makes it easier to keep track of your family’s storage in one place."
+"winFlagsSchema"="0"
+"winFlagsId"="PX:03CA0410"
+"Name"="Family cloud storage in Settings"
+"PreviewFlagEligible"="true"
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\543648398\20676A8E001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\543648398\20676A8E002]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\903441039]
+"_version"="2026-10-30T16:14:45.7073476Z"
+"featureFlagId"="6f6498286b55412a98babf789acffa29"
+"payloadKey"="WINFLAGS_63626138_6F6498286B55412A98BABF789ACFFA29"
+"Description"="Explore upgrade options for your eligible Microsoft 365 subscription directly in Settings > Accounts. Selecting Upgrade on your subscription card opens an integrated dialog without taking you to a browser."
+"winFlagsSchema"="0"
+"winFlagsId"="PX:03CADB9A"
+"Name"="Microsoft 365 subscription upgrades in Settings"
+"PreviewFlagEligible"="true"
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\903441039\35D96A8F001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\903441039\35D96A8F002]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\940002959]
+"_version"="2026-11-06T17:13:22.6596193Z"
+"featureFlagId"="034a85274aba462d8ae2679582f1bbdc"
+"payloadKey"="WINFLAGS_64500892_034A85274ABA462D8AE2679582F1BBDC"
+"Description"="Live captions now gives you control over what gets transcribed. Previously, captions used system audio, with an option to add your microphone. Now you can choose system audio, your microphone, or both, so captions follow the sound you care about. "
+"winFlagsSchema"="0"
+"winFlagsId"="PX:03D8349C"
+"Name"="Choose what live captions transcribes"
+"PreviewFlagEligible"="true"
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\940002959\38074E8F001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\940002959\38074E8F002]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\945399438]
+"_version"="2026-07-01T20:48:33.2571648Z"
+"featureFlagId"="16f4193d19834fcb94c1e9ba05a8cf80"
+"payloadKey"="WINFLAGS_61610780_16F4193D19834FCB94C1E9BA05A8CF80"
+"winFlagsId"="PX:03AC1B1C"
+"Name"="Short Query File Search support "
+"Description"="This feature enables users to get file results for 2 char queries"
+"PreviewFlagEligible"="true"
+"ChangeTime"=dword:00000003
+"DefaultState"=dword:00000001
+"DefaultVariant"=dword:00000000
+"VariantPayload"=dword:00000000
+"VariantPayloadKind"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\945399438\3859A68E001]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Definitions\ConfigurationInventory\200\945399438\3859A68E002]
