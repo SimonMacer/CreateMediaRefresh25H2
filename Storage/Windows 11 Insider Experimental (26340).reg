@@ -1,0 +1,157 @@
+Windows Registry Editor Version 5.00
+# Undo - Delete HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14 Registry Key and restore default values.
+# You will need to open CMD as administrator. Type the following command in CMD to Undo:
+# REG DELETE "HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14" /f
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14]
+
+# Enables the new Feature Flags settings page in the Beta Channel. ViVetool ID: 60911173 (CFR RKey: 2327035022)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2327035022]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Quick Settings Phone Controls] ViVetool ID: 62103454 (CFR RKey: 1028757647)
+# Description: Try the new Mobile devices experience in Quick Settings for quick access to your connected phone’s status and controls.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1028757647]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Coordinating Windows Hello Gestures] ViVetool ID: 61275938 (CFR RKey: 1167176334)
+# Description: Your PIN is available while Face or Fingerprint keeps working, and whichever finishes first signs you in. In some cases, such as after a restart, your PIN is required first.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1167176334]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Indexer Search File Explorer This PC] ViVetool ID: 61188158 (CFR RKey: 2101326990)
+# Description: Enables indexer based Search in File Explorer on this pc, making it much faster and consistent with search from File Explorer Home.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2101326990]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Cross Device Resume Improvement] ViVetool ID: 62672833 (CFR RKey: 2196866703)
+# Description: Continue webpages from your phone on your PC more easily by opening them in your default browser or installing the originating mobile browser.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2196866703]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Phone companion for the Start menu] ViVetool ID: 55543623 (CFR RKey: 2405458062)
+# Description: Enable the phone companion for the Start menu which now shows more of your recent activity, with a scrollable side pane so you can view even more without leaving the Start menu.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2405458062]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Turn off keyboard shortcuts] ViVetool ID: 62381268 (CFR RKey: 2849476751)
+# Description: If you don't use the Sticky Key or Filter Key keyboard features, you can choose not to be asked again directly from the dialog, helping you continue what you are doing with fewer interruptions.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2849476751]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Refined Windows Search] ViVetool ID: 62762248 (CFR RKey: 288720014)
+# Description: Gives Windows Search a cleaner, calmer look with a simpler search home, clearer labels showing each result's source (app, file, setting, or web), and more consistent previews so you can find what you need at a glance.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\288720014]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Drag and Drop bundle fixes] ViVetool ID: 61166176 (CFR RKey: 3234575502)
+# Description: Drop target, Drag preview and AutoDest hang
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3234575502]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Quick Settings Speed Test] ViVetool ID: 62148964 (CFR RKey: 3368916622)
+# Description: Check the performance of your internet connection in Windows Quick Settings with an internet speed test.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3368916622]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Camera Roll Backup] ViVetool ID: 62068874 (CFR RKey: 341809295)
+# Description: Get access to new entry points on the Settings Home and Accounts pages help you set up Camera Roll Backup and automatically back up photos and videos from your mobile device to OneDrive.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\341809295]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Enhanced start menu customization] ViVetool ID: 61754985 (CFR RKey: 3539182222)
+# Description: Enables the updated Start menu customization experiences including enhanced controls for personalizing layout, recommendations, and content visibility.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3539182222]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Account Benefits in Settings] ViVetool ID: 61595625 (CFR RKey: 3553732751)
+# Description: Discover the benefits and services available with your Microsoft account, right in Windows Settings.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3553732751]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Advanced security key management] ViVetool ID: 63098217 (CFR RKey: 3556080270)
+# Description: View and remove individual passkeys on a supported security key without resetting the entire key. Administrators can also configure security-key policies.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3556080270]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Coordinating Windows Hello Gestures] ViVetool ID: 63646574 (CFR RKey: 3694749838)
+# Description: Your PIN is available while Face or Fingerprint keeps working, and whichever finishes first signs you in. In some cases, such as after a restart, your PIN is required first.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3694749838]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Improved Context Menu] ViVetool ID: 60813048 (CFR RKey: 4055089295)
+# Description: A faster, cleaner context menu that you can customize to fit your workflow and preferences
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4055089295]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Modernized AutoPlay Experience] ViVetool ID: 62141177 (CFR RKey: 4060845711)
+# Description: You may utilize the AutoPlay dialog to choose the preferred experience when devices are connected to your PC. 
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4060845711]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Drag and Drop bundle fixes] ViVetool ID: 61084172 (CFR RKey: 407615118)
+# Description: Drop target, Drag preview and AutoDest hang
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\407615118]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Family cloud storage in Settings] ViVetool ID: 63570960 (CFR RKey: 543648398)
+# Description: If your Microsoft 365 Family or Premium subscription was purchased after October 8, 2026, view your shared cloud storage usage in Settings > Accounts > Cloud storage. This makes it easier to keep track of your family’s storage in one place.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\543648398]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Microsoft 365 subscription upgrades in Settings] ViVetool ID: 63626138 (CFR RKey: 903441039)
+# Description: Explore upgrade options for your eligible Microsoft 365 subscription directly in Settings > Accounts. Selecting Upgrade on your subscription card opens an integrated dialog without taking you to a browser.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\903441039]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Choose what live captions transcribes] ViVetool ID: 64500892 (CFR RKey: 940002959)
+# Description: Live captions now gives you control over what gets transcribed. Previously, captions used system audio, with an option to add your microphone. Now you can choose system audio, your microphone, or both, so captions follow the sound you care about. 
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\940002959]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Short Query File Search support ] ViVetool ID: 61610780 (CFR RKey: 945399438)
+# Description: This feature enables users to get file results for 2 char queries
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\945399438]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Taskbar previews show up in a list view with no visual thumbnail preview. ViVetool ID: 62932453 (CFR RKey: 3404037775)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3404037775]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New [Try it] in Settings Search. ViVetool ID: 63518111 (CFR RKey: 1040542863)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1040542863]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Undo Text in Settings Search. ViVetool ID: 63846367 (CFR RKey: 3187761807)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3187761807]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# New Transcript Recording Length Setting for Live Captions. ViVetool ID: 64630108 (CFR RKey: 3090500238)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3090500238]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
