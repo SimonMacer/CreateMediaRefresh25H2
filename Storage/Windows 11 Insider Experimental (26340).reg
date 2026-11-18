@@ -165,3 +165,18 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2250205326]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
+
+# New Windows Security in Settings. ViVetool ID: 60775414 (CFR RKey: 3973693583)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3973693583]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Windows Baseline Protection Features. ViVetool ID: 62643951 (CFR RKey: 3755182223)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3755182223]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Baseline Security Mode in Settings. ViVetool ID: 63332473 (CFR RKey: 4071584398)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4071584398]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
