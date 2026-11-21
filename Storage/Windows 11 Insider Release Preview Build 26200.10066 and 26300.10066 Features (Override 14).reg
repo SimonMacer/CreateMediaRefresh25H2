@@ -15,6 +15,21 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
+# Enables new Windows Search experience. ViVetool ID: 58381341 (CFR RKey: 1002834574)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1002834574]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enables the Xbox mode Task View Quick Settings UI. ViVetool ID: 59956305 (CFR RKey: 2748832398)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2748832398]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Enables Pointer Indicator. ViVetool ID: 27829265 (CFR RKey: 589803146)
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\589803146]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
 # Modern Run Dialog. ViVetool ID: 57156807 (CFR RKey: 2384866959)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2384866959]
 "EnabledState"=dword:00000002
@@ -22,11 +37,6 @@ Windows Registry Editor Version 5.00
 
 # Modern Run Dialog. ViVetool ID: 57259990 (CFR RKey: 2902469775)
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2902469775]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# Modern Run Dialog. ViVetool ID: 58381341 (CFR RKey: 1002834574)
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1002834574]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
