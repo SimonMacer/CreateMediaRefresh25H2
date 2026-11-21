@@ -22,15 +22,15 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
-# Name: [Indexer Search File Explorer This PC] ViVetool ID: 61188158 (CFR RKey: 2101326990)
-# Description: Enables indexer based Search in File Explorer on this pc, making it much faster and consistent with search from File Explorer Home.
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2101326990]
+# Name: [Magnifier help menu] ViVetool ID: 64120503 (CFR RKey: 1856199311)
+# Description: Adds a help button to the Magnifier toolbar with quick access to help articles, what’s new, and Feedback Hub.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\1856199311]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
-# Name: [Cross Device Resume Improvement] ViVetool ID: 62672833 (CFR RKey: 2196866703)
-# Description: Continue webpages from your phone on your PC more easily by opening them in your default browser or installing the originating mobile browser.
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2196866703]
+# Name: [Indexer Search File Explorer This PC] ViVetool ID: 61188158 (CFR RKey: 2101326990)
+# Description: Enables indexer based Search in File Explorer on this pc, making it much faster and consistent with search from File Explorer Home.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\2101326990]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
@@ -52,12 +52,6 @@ Windows Registry Editor Version 5.00
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
-# Name: [Drag and Drop bundle fixes] ViVetool ID: 61166176 (CFR RKey: 3234575502)
-# Description: Drop target, Drag preview and AutoDest hang
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3234575502]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
 # Name: [Quick Settings Speed Test] ViVetool ID: 62148964 (CFR RKey: 3368916622)
 # Description: Check the performance of your internet connection in Windows Quick Settings with an internet speed test.
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3368916622]
@@ -67,6 +61,12 @@ Windows Registry Editor Version 5.00
 # Name: [Camera Roll Backup] ViVetool ID: 62068874 (CFR RKey: 341809295)
 # Description: Get access to new entry points on the Settings Home and Accounts pages help you set up Camera Roll Backup and automatically back up photos and videos from your mobile device to OneDrive.
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\341809295]
+"EnabledState"=dword:00000002
+"EnabledStateOptions"=dword:00000000
+
+# Name: [Magnifier touch and touchpad gestures] ViVetool ID: 64097255 (CFR RKey: 3464059535)
+# Description: Use touch or touchpad gestures to zoom, pan, and switch between 100% and your previous magnification level while Magnifier is running.
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\3464059535]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
@@ -103,12 +103,6 @@ Windows Registry Editor Version 5.00
 # Name: [Modernized AutoPlay Experience] ViVetool ID: 62141177 (CFR RKey: 4060845711)
 # Description: You may utilize the AutoPlay dialog to choose the preferred experience when devices are connected to your PC. 
 [HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\4060845711]
-"EnabledState"=dword:00000002
-"EnabledStateOptions"=dword:00000000
-
-# Name: [Drag and Drop bundle fixes] ViVetool ID: 61084172 (CFR RKey: 407615118)
-# Description: Drop target, Drag preview and AutoDest hang
-[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\FeatureManagement\Overrides\14\407615118]
 "EnabledState"=dword:00000002
 "EnabledStateOptions"=dword:00000000
 
